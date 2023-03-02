@@ -1,0 +1,1909 @@
+Mode of Travel,Zone Type,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Day Type,Day Part,Average Daily Zone Traffic (StL Index)
+Bus - StL Bus Index,Origin,N/A,27053001100,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),650
+Bus - StL Bus Index,Origin,N/A,27053001100,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),21
+Bus - StL Bus Index,Origin,N/A,27053001100,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),112
+Bus - StL Bus Index,Origin,N/A,27053001100,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),230
+Bus - StL Bus Index,Origin,N/A,27053001100,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),193
+Bus - StL Bus Index,Origin,N/A,27053001100,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),94
+Bus - StL Bus Index,Origin,N/A,27053001100,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),643
+Bus - StL Bus Index,Origin,N/A,27053001100,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),14
+Bus - StL Bus Index,Origin,N/A,27053001100,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),135
+Bus - StL Bus Index,Origin,N/A,27053001100,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),210
+Bus - StL Bus Index,Origin,N/A,27053001100,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),198
+Bus - StL Bus Index,Origin,N/A,27053001100,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),86
+Bus - StL Bus Index,Origin,N/A,27053001100,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),602
+Bus - StL Bus Index,Origin,N/A,27053001100,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),30
+Bus - StL Bus Index,Origin,N/A,27053001100,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),57
+Bus - StL Bus Index,Origin,N/A,27053001100,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),259
+Bus - StL Bus Index,Origin,N/A,27053001100,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),167
+Bus - StL Bus Index,Origin,N/A,27053001100,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),89
+Bus - StL Bus Index,Origin,N/A,27053001700,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),876
+Bus - StL Bus Index,Origin,N/A,27053001700,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),40
+Bus - StL Bus Index,Origin,N/A,27053001700,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),175
+Bus - StL Bus Index,Origin,N/A,27053001700,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),226
+Bus - StL Bus Index,Origin,N/A,27053001700,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),253
+Bus - StL Bus Index,Origin,N/A,27053001700,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),182
+Bus - StL Bus Index,Origin,N/A,27053001700,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),805
+Bus - StL Bus Index,Origin,N/A,27053001700,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),23
+Bus - StL Bus Index,Origin,N/A,27053001700,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),205
+Bus - StL Bus Index,Origin,N/A,27053001700,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),207
+Bus - StL Bus Index,Origin,N/A,27053001700,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),240
+Bus - StL Bus Index,Origin,N/A,27053001700,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),130
+Bus - StL Bus Index,Origin,N/A,27053001700,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),954
+Bus - StL Bus Index,Origin,N/A,27053001700,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),87
+Bus - StL Bus Index,Origin,N/A,27053001700,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),101
+Bus - StL Bus Index,Origin,N/A,27053001700,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),268
+Bus - StL Bus Index,Origin,N/A,27053001700,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),259
+Bus - StL Bus Index,Origin,N/A,27053001700,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),240
+Bus - StL Bus Index,Origin,N/A,27053002400,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),929
+Bus - StL Bus Index,Origin,N/A,27053002400,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),38
+Bus - StL Bus Index,Origin,N/A,27053002400,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),194
+Bus - StL Bus Index,Origin,N/A,27053002400,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),274
+Bus - StL Bus Index,Origin,N/A,27053002400,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),256
+Bus - StL Bus Index,Origin,N/A,27053002400,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),168
+Bus - StL Bus Index,Origin,N/A,27053002400,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),895
+Bus - StL Bus Index,Origin,N/A,27053002400,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),31
+Bus - StL Bus Index,Origin,N/A,27053002400,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),230
+Bus - StL Bus Index,Origin,N/A,27053002400,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),238
+Bus - StL Bus Index,Origin,N/A,27053002400,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),253
+Bus - StL Bus Index,Origin,N/A,27053002400,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),142
+Bus - StL Bus Index,Origin,N/A,27053002400,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),898
+Bus - StL Bus Index,Origin,N/A,27053002400,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),56
+Bus - StL Bus Index,Origin,N/A,27053002400,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),86
+Bus - StL Bus Index,Origin,N/A,27053002400,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),330
+Bus - StL Bus Index,Origin,N/A,27053002400,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),251
+Bus - StL Bus Index,Origin,N/A,27053002400,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),174
+Bus - StL Bus Index,Origin,N/A,27053003801,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),712
+Bus - StL Bus Index,Origin,N/A,27053003801,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),38
+Bus - StL Bus Index,Origin,N/A,27053003801,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),180
+Bus - StL Bus Index,Origin,N/A,27053003801,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),202
+Bus - StL Bus Index,Origin,N/A,27053003801,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),189
+Bus - StL Bus Index,Origin,N/A,27053003801,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),103
+Bus - StL Bus Index,Origin,N/A,27053003801,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),725
+Bus - StL Bus Index,Origin,N/A,27053003801,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),32
+Bus - StL Bus Index,Origin,N/A,27053003801,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),237
+Bus - StL Bus Index,Origin,N/A,27053003801,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),190
+Bus - StL Bus Index,Origin,N/A,27053003801,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),183
+Bus - StL Bus Index,Origin,N/A,27053003801,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),83
+Bus - StL Bus Index,Origin,N/A,27053003801,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),600
+Bus - StL Bus Index,Origin,N/A,27053003801,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),50
+Bus - StL Bus Index,Origin,N/A,27053003801,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),61
+Bus - StL Bus Index,Origin,N/A,27053003801,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),197
+Bus - StL Bus Index,Origin,N/A,27053003801,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),177
+Bus - StL Bus Index,Origin,N/A,27053003801,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),115
+Bus - StL Bus Index,Origin,N/A,27053003802,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),655
+Bus - StL Bus Index,Origin,N/A,27053003802,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),19
+Bus - StL Bus Index,Origin,N/A,27053003802,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),143
+Bus - StL Bus Index,Origin,N/A,27053003802,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),204
+Bus - StL Bus Index,Origin,N/A,27053003802,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),178
+Bus - StL Bus Index,Origin,N/A,27053003802,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),111
+Bus - StL Bus Index,Origin,N/A,27053003802,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),657
+Bus - StL Bus Index,Origin,N/A,27053003802,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),12
+Bus - StL Bus Index,Origin,N/A,27053003802,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),178
+Bus - StL Bus Index,Origin,N/A,27053003802,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),199
+Bus - StL Bus Index,Origin,N/A,27053003802,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),171
+Bus - StL Bus Index,Origin,N/A,27053003802,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),97
+Bus - StL Bus Index,Origin,N/A,27053003802,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),590
+Bus - StL Bus Index,Origin,N/A,27053003802,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),37
+Bus - StL Bus Index,Origin,N/A,27053003802,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),53
+Bus - StL Bus Index,Origin,N/A,27053003802,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),216
+Bus - StL Bus Index,Origin,N/A,27053003802,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),166
+Bus - StL Bus Index,Origin,N/A,27053003802,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),119
+Bus - StL Bus Index,Origin,N/A,27053005901,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1074
+Bus - StL Bus Index,Origin,N/A,27053005901,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),36
+Bus - StL Bus Index,Origin,N/A,27053005901,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),168
+Bus - StL Bus Index,Origin,N/A,27053005901,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),405
+Bus - StL Bus Index,Origin,N/A,27053005901,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),299
+Bus - StL Bus Index,Origin,N/A,27053005901,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),167
+Bus - StL Bus Index,Origin,N/A,27053005901,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1142
+Bus - StL Bus Index,Origin,N/A,27053005901,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),31
+Bus - StL Bus Index,Origin,N/A,27053005901,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),197
+Bus - StL Bus Index,Origin,N/A,27053005901,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),422
+Bus - StL Bus Index,Origin,N/A,27053005901,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),337
+Bus - StL Bus Index,Origin,N/A,27053005901,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),156
+Bus - StL Bus Index,Origin,N/A,27053005901,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),857
+Bus - StL Bus Index,Origin,N/A,27053005901,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),48
+Bus - StL Bus Index,Origin,N/A,27053005901,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),86
+Bus - StL Bus Index,Origin,N/A,27053005901,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),363
+Bus - StL Bus Index,Origin,N/A,27053005901,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),201
+Bus - StL Bus Index,Origin,N/A,27053005901,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),159
+Bus - StL Bus Index,Origin,N/A,27053005902,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1722
+Bus - StL Bus Index,Origin,N/A,27053005902,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),67
+Bus - StL Bus Index,Origin,N/A,27053005902,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),325
+Bus - StL Bus Index,Origin,N/A,27053005902,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),617
+Bus - StL Bus Index,Origin,N/A,27053005902,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),469
+Bus - StL Bus Index,Origin,N/A,27053005902,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),245
+Bus - StL Bus Index,Origin,N/A,27053005902,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1830
+Bus - StL Bus Index,Origin,N/A,27053005902,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),62
+Bus - StL Bus Index,Origin,N/A,27053005902,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),370
+Bus - StL Bus Index,Origin,N/A,27053005902,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),659
+Bus - StL Bus Index,Origin,N/A,27053005902,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),512
+Bus - StL Bus Index,Origin,N/A,27053005902,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),227
+Bus - StL Bus Index,Origin,N/A,27053005902,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1352
+Bus - StL Bus Index,Origin,N/A,27053005902,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),76
+Bus - StL Bus Index,Origin,N/A,27053005902,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),184
+Bus - StL Bus Index,Origin,N/A,27053005902,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),488
+Bus - StL Bus Index,Origin,N/A,27053005902,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),356
+Bus - StL Bus Index,Origin,N/A,27053005902,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),246
+Bus - StL Bus Index,Origin,N/A,27053006800,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1646
+Bus - StL Bus Index,Origin,N/A,27053006800,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),63
+Bus - StL Bus Index,Origin,N/A,27053006800,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),339
+Bus - StL Bus Index,Origin,N/A,27053006800,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),574
+Bus - StL Bus Index,Origin,N/A,27053006800,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),417
+Bus - StL Bus Index,Origin,N/A,27053006800,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),254
+Bus - StL Bus Index,Origin,N/A,27053006800,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1732
+Bus - StL Bus Index,Origin,N/A,27053006800,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),51
+Bus - StL Bus Index,Origin,N/A,27053006800,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),397
+Bus - StL Bus Index,Origin,N/A,27053006800,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),597
+Bus - StL Bus Index,Origin,N/A,27053006800,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),457
+Bus - StL Bus Index,Origin,N/A,27053006800,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),231
+Bus - StL Bus Index,Origin,N/A,27053006800,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1354
+Bus - StL Bus Index,Origin,N/A,27053006800,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),81
+Bus - StL Bus Index,Origin,N/A,27053006800,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),173
+Bus - StL Bus Index,Origin,N/A,27053006800,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),523
+Bus - StL Bus Index,Origin,N/A,27053006800,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),327
+Bus - StL Bus Index,Origin,N/A,27053006800,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),251
+Bus - StL Bus Index,Origin,N/A,27053007700,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),3408
+Bus - StL Bus Index,Origin,N/A,27053007700,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),269
+Bus - StL Bus Index,Origin,N/A,27053007700,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),392
+Bus - StL Bus Index,Origin,N/A,27053007700,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),988
+Bus - StL Bus Index,Origin,N/A,27053007700,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),951
+Bus - StL Bus Index,Origin,N/A,27053007700,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),807
+Bus - StL Bus Index,Origin,N/A,27053007700,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),3231
+Bus - StL Bus Index,Origin,N/A,27053007700,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),165
+Bus - StL Bus Index,Origin,N/A,27053007700,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),446
+Bus - StL Bus Index,Origin,N/A,27053007700,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),990
+Bus - StL Bus Index,Origin,N/A,27053007700,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),923
+Bus - StL Bus Index,Origin,N/A,27053007700,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),707
+Bus - StL Bus Index,Origin,N/A,27053007700,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),3431
+Bus - StL Bus Index,Origin,N/A,27053007700,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),522
+Bus - StL Bus Index,Origin,N/A,27053007700,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),205
+Bus - StL Bus Index,Origin,N/A,27053007700,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),926
+Bus - StL Bus Index,Origin,N/A,27053007700,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),933
+Bus - StL Bus Index,Origin,N/A,27053007700,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),844
+Bus - StL Bus Index,Origin,N/A,27053007801,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),943
+Bus - StL Bus Index,Origin,N/A,27053007801,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),40
+Bus - StL Bus Index,Origin,N/A,27053007801,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),142
+Bus - StL Bus Index,Origin,N/A,27053007801,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),330
+Bus - StL Bus Index,Origin,N/A,27053007801,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),250
+Bus - StL Bus Index,Origin,N/A,27053007801,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),182
+Bus - StL Bus Index,Origin,N/A,27053007801,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),898
+Bus - StL Bus Index,Origin,N/A,27053007801,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),39
+Bus - StL Bus Index,Origin,N/A,27053007801,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),146
+Bus - StL Bus Index,Origin,N/A,27053007801,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),319
+Bus - StL Bus Index,Origin,N/A,27053007801,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),235
+Bus - StL Bus Index,Origin,N/A,27053007801,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),159
+Bus - StL Bus Index,Origin,N/A,27053007801,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),865
+Bus - StL Bus Index,Origin,N/A,27053007801,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),29
+Bus - StL Bus Index,Origin,N/A,27053007801,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),96
+Bus - StL Bus Index,Origin,N/A,27053007801,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),311
+Bus - StL Bus Index,Origin,N/A,27053007801,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),250
+Bus - StL Bus Index,Origin,N/A,27053007801,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),178
+Bus - StL Bus Index,Origin,N/A,27053008100,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1253
+Bus - StL Bus Index,Origin,N/A,27053008100,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),94
+Bus - StL Bus Index,Origin,N/A,27053008100,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),169
+Bus - StL Bus Index,Origin,N/A,27053008100,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),353
+Bus - StL Bus Index,Origin,N/A,27053008100,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),350
+Bus - StL Bus Index,Origin,N/A,27053008100,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),288
+Bus - StL Bus Index,Origin,N/A,27053008100,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1153
+Bus - StL Bus Index,Origin,N/A,27053008100,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),58
+Bus - StL Bus Index,Origin,N/A,27053008100,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),195
+Bus - StL Bus Index,Origin,N/A,27053008100,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),313
+Bus - StL Bus Index,Origin,N/A,27053008100,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),332
+Bus - StL Bus Index,Origin,N/A,27053008100,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),254
+Bus - StL Bus Index,Origin,N/A,27053008100,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1345
+Bus - StL Bus Index,Origin,N/A,27053008100,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),166
+Bus - StL Bus Index,Origin,N/A,27053008100,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),92
+Bus - StL Bus Index,Origin,N/A,27053008100,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),392
+Bus - StL Bus Index,Origin,N/A,27053008100,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),396
+Bus - StL Bus Index,Origin,N/A,27053008100,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),299
+Bus - StL Bus Index,Origin,N/A,27053008200,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1620
+Bus - StL Bus Index,Origin,N/A,27053008200,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),103
+Bus - StL Bus Index,Origin,N/A,27053008200,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),244
+Bus - StL Bus Index,Origin,N/A,27053008200,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),522
+Bus - StL Bus Index,Origin,N/A,27053008200,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),469
+Bus - StL Bus Index,Origin,N/A,27053008200,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),281
+Bus - StL Bus Index,Origin,N/A,27053008200,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1612
+Bus - StL Bus Index,Origin,N/A,27053008200,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),100
+Bus - StL Bus Index,Origin,N/A,27053008200,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),297
+Bus - StL Bus Index,Origin,N/A,27053008200,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),501
+Bus - StL Bus Index,Origin,N/A,27053008200,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),465
+Bus - StL Bus Index,Origin,N/A,27053008200,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),248
+Bus - StL Bus Index,Origin,N/A,27053008200,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1459
+Bus - StL Bus Index,Origin,N/A,27053008200,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),96
+Bus - StL Bus Index,Origin,N/A,27053008200,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),117
+Bus - StL Bus Index,Origin,N/A,27053008200,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),529
+Bus - StL Bus Index,Origin,N/A,27053008200,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),432
+Bus - StL Bus Index,Origin,N/A,27053008200,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),286
+Bus - StL Bus Index,Origin,N/A,27053008300,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1709
+Bus - StL Bus Index,Origin,N/A,27053008300,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),81
+Bus - StL Bus Index,Origin,N/A,27053008300,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),317
+Bus - StL Bus Index,Origin,N/A,27053008300,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),528
+Bus - StL Bus Index,Origin,N/A,27053008300,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),523
+Bus - StL Bus Index,Origin,N/A,27053008300,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),261
+Bus - StL Bus Index,Origin,N/A,27053008300,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1668
+Bus - StL Bus Index,Origin,N/A,27053008300,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),74
+Bus - StL Bus Index,Origin,N/A,27053008300,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),362
+Bus - StL Bus Index,Origin,N/A,27053008300,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),517
+Bus - StL Bus Index,Origin,N/A,27053008300,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),488
+Bus - StL Bus Index,Origin,N/A,27053008300,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),227
+Bus - StL Bus Index,Origin,N/A,27053008300,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1637
+Bus - StL Bus Index,Origin,N/A,27053008300,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),92
+Bus - StL Bus Index,Origin,N/A,27053008300,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),167
+Bus - StL Bus Index,Origin,N/A,27053008300,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),542
+Bus - StL Bus Index,Origin,N/A,27053008300,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),561
+Bus - StL Bus Index,Origin,N/A,27053008300,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),276
+Bus - StL Bus Index,Origin,N/A,27053008400,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1164
+Bus - StL Bus Index,Origin,N/A,27053008400,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),42
+Bus - StL Bus Index,Origin,N/A,27053008400,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),217
+Bus - StL Bus Index,Origin,N/A,27053008400,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),378
+Bus - StL Bus Index,Origin,N/A,27053008400,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),364
+Bus - StL Bus Index,Origin,N/A,27053008400,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),163
+Bus - StL Bus Index,Origin,N/A,27053008400,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1130
+Bus - StL Bus Index,Origin,N/A,27053008400,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),29
+Bus - StL Bus Index,Origin,N/A,27053008400,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),257
+Bus - StL Bus Index,Origin,N/A,27053008400,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),360
+Bus - StL Bus Index,Origin,N/A,27053008400,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),350
+Bus - StL Bus Index,Origin,N/A,27053008400,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),134
+Bus - StL Bus Index,Origin,N/A,27053008400,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1138
+Bus - StL Bus Index,Origin,N/A,27053008400,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),65
+Bus - StL Bus Index,Origin,N/A,27053008400,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),103
+Bus - StL Bus Index,Origin,N/A,27053008400,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),414
+Bus - StL Bus Index,Origin,N/A,27053008400,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),367
+Bus - StL Bus Index,Origin,N/A,27053008400,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),189
+Bus - StL Bus Index,Origin,N/A,27053101200,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),687
+Bus - StL Bus Index,Origin,N/A,27053101200,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),13
+Bus - StL Bus Index,Origin,N/A,27053101200,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),162
+Bus - StL Bus Index,Origin,N/A,27053101200,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),212
+Bus - StL Bus Index,Origin,N/A,27053101200,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),214
+Bus - StL Bus Index,Origin,N/A,27053101200,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),85
+Bus - StL Bus Index,Origin,N/A,27053101200,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),687
+Bus - StL Bus Index,Origin,N/A,27053101200,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),14
+Bus - StL Bus Index,Origin,N/A,27053101200,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),208
+Bus - StL Bus Index,Origin,N/A,27053101200,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),190
+Bus - StL Bus Index,Origin,N/A,27053101200,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),197
+Bus - StL Bus Index,Origin,N/A,27053101200,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),78
+Bus - StL Bus Index,Origin,N/A,27053101200,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),626
+Bus - StL Bus Index,Origin,N/A,27053101200,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),14
+Bus - StL Bus Index,Origin,N/A,27053101200,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),71
+Bus - StL Bus Index,Origin,N/A,27053101200,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),241
+Bus - StL Bus Index,Origin,N/A,27053101200,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),220
+Bus - StL Bus Index,Origin,N/A,27053101200,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),80
+Bus - StL Bus Index,Origin,N/A,27053101800,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1487
+Bus - StL Bus Index,Origin,N/A,27053101800,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),56
+Bus - StL Bus Index,Origin,N/A,27053101800,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),280
+Bus - StL Bus Index,Origin,N/A,27053101800,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),439
+Bus - StL Bus Index,Origin,N/A,27053101800,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),476
+Bus - StL Bus Index,Origin,N/A,27053101800,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),236
+Bus - StL Bus Index,Origin,N/A,27053101800,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1495
+Bus - StL Bus Index,Origin,N/A,27053101800,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),55
+Bus - StL Bus Index,Origin,N/A,27053101800,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),330
+Bus - StL Bus Index,Origin,N/A,27053101800,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),409
+Bus - StL Bus Index,Origin,N/A,27053101800,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),496
+Bus - StL Bus Index,Origin,N/A,27053101800,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),205
+Bus - StL Bus Index,Origin,N/A,27053101800,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1308
+Bus - StL Bus Index,Origin,N/A,27053101800,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),61
+Bus - StL Bus Index,Origin,N/A,27053101800,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),164
+Bus - StL Bus Index,Origin,N/A,27053101800,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),426
+Bus - StL Bus Index,Origin,N/A,27053101800,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),408
+Bus - StL Bus Index,Origin,N/A,27053101800,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),249
+Bus - StL Bus Index,Origin,N/A,27053101900,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),763
+Bus - StL Bus Index,Origin,N/A,27053101900,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),17
+Bus - StL Bus Index,Origin,N/A,27053101900,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),148
+Bus - StL Bus Index,Origin,N/A,27053101900,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),244
+Bus - StL Bus Index,Origin,N/A,27053101900,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),223
+Bus - StL Bus Index,Origin,N/A,27053101900,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),132
+Bus - StL Bus Index,Origin,N/A,27053101900,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),735
+Bus - StL Bus Index,Origin,N/A,27053101900,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),10
+Bus - StL Bus Index,Origin,N/A,27053101900,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),181
+Bus - StL Bus Index,Origin,N/A,27053101900,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),223
+Bus - StL Bus Index,Origin,N/A,27053101900,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),220
+Bus - StL Bus Index,Origin,N/A,27053101900,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),101
+Bus - StL Bus Index,Origin,N/A,27053101900,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),746
+Bus - StL Bus Index,Origin,N/A,27053101900,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),33
+Bus - StL Bus Index,Origin,N/A,27053101900,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),68
+Bus - StL Bus Index,Origin,N/A,27053101900,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),293
+Bus - StL Bus Index,Origin,N/A,27053101900,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),203
+Bus - StL Bus Index,Origin,N/A,27053101900,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),148
+Bus - StL Bus Index,Origin,N/A,27053102500,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1017
+Bus - StL Bus Index,Origin,N/A,27053102500,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),21
+Bus - StL Bus Index,Origin,N/A,27053102500,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),205
+Bus - StL Bus Index,Origin,N/A,27053102500,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),337
+Bus - StL Bus Index,Origin,N/A,27053102500,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),328
+Bus - StL Bus Index,Origin,N/A,27053102500,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),125
+Bus - StL Bus Index,Origin,N/A,27053102500,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1066
+Bus - StL Bus Index,Origin,N/A,27053102500,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),16
+Bus - StL Bus Index,Origin,N/A,27053102500,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),255
+Bus - StL Bus Index,Origin,N/A,27053102500,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),352
+Bus - StL Bus Index,Origin,N/A,27053102500,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),347
+Bus - StL Bus Index,Origin,N/A,27053102500,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),96
+Bus - StL Bus Index,Origin,N/A,27053102500,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),807
+Bus - StL Bus Index,Origin,N/A,27053102500,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),35
+Bus - StL Bus Index,Origin,N/A,27053102500,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),86
+Bus - StL Bus Index,Origin,N/A,27053102500,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),314
+Bus - StL Bus Index,Origin,N/A,27053102500,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),228
+Bus - StL Bus Index,Origin,N/A,27053102500,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),144
+Bus - StL Bus Index,Origin,N/A,27053102600,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1632
+Bus - StL Bus Index,Origin,N/A,27053102600,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),43
+Bus - StL Bus Index,Origin,N/A,27053102600,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),235
+Bus - StL Bus Index,Origin,N/A,27053102600,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),552
+Bus - StL Bus Index,Origin,N/A,27053102600,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),528
+Bus - StL Bus Index,Origin,N/A,27053102600,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),274
+Bus - StL Bus Index,Origin,N/A,27053102600,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1593
+Bus - StL Bus Index,Origin,N/A,27053102600,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),32
+Bus - StL Bus Index,Origin,N/A,27053102600,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),275
+Bus - StL Bus Index,Origin,N/A,27053102600,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),519
+Bus - StL Bus Index,Origin,N/A,27053102600,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),535
+Bus - StL Bus Index,Origin,N/A,27053102600,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),232
+Bus - StL Bus Index,Origin,N/A,27053102600,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1559
+Bus - StL Bus Index,Origin,N/A,27053102600,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),64
+Bus - StL Bus Index,Origin,N/A,27053102600,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),126
+Bus - StL Bus Index,Origin,N/A,27053102600,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),584
+Bus - StL Bus Index,Origin,N/A,27053102600,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),493
+Bus - StL Bus Index,Origin,N/A,27053102600,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),292
+Bus - StL Bus Index,Origin,N/A,27053103000,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),640
+Bus - StL Bus Index,Origin,N/A,27053103000,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),41
+Bus - StL Bus Index,Origin,N/A,27053103000,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),109
+Bus - StL Bus Index,Origin,N/A,27053103000,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),201
+Bus - StL Bus Index,Origin,N/A,27053103000,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),182
+Bus - StL Bus Index,Origin,N/A,27053103000,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),107
+Bus - StL Bus Index,Origin,N/A,27053103000,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),640
+Bus - StL Bus Index,Origin,N/A,27053103000,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),43
+Bus - StL Bus Index,Origin,N/A,27053103000,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),131
+Bus - StL Bus Index,Origin,N/A,27053103000,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),194
+Bus - StL Bus Index,Origin,N/A,27053103000,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),186
+Bus - StL Bus Index,Origin,N/A,27053103000,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),85
+Bus - StL Bus Index,Origin,N/A,27053103000,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),602
+Bus - StL Bus Index,Origin,N/A,27053103000,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),36
+Bus - StL Bus Index,Origin,N/A,27053103000,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),62
+Bus - StL Bus Index,Origin,N/A,27053103000,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),218
+Bus - StL Bus Index,Origin,N/A,27053103000,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),155
+Bus - StL Bus Index,Origin,N/A,27053103000,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),130
+Bus - StL Bus Index,Origin,N/A,27053103100,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),735
+Bus - StL Bus Index,Origin,N/A,27053103100,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),48
+Bus - StL Bus Index,Origin,N/A,27053103100,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),153
+Bus - StL Bus Index,Origin,N/A,27053103100,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),214
+Bus - StL Bus Index,Origin,N/A,27053103100,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),200
+Bus - StL Bus Index,Origin,N/A,27053103100,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),120
+Bus - StL Bus Index,Origin,N/A,27053103100,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),744
+Bus - StL Bus Index,Origin,N/A,27053103100,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),40
+Bus - StL Bus Index,Origin,N/A,27053103100,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),182
+Bus - StL Bus Index,Origin,N/A,27053103100,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),214
+Bus - StL Bus Index,Origin,N/A,27053103100,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),204
+Bus - StL Bus Index,Origin,N/A,27053103100,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),105
+Bus - StL Bus Index,Origin,N/A,27053103100,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),677
+Bus - StL Bus Index,Origin,N/A,27053103100,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),73
+Bus - StL Bus Index,Origin,N/A,27053103100,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),71
+Bus - StL Bus Index,Origin,N/A,27053103100,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),212
+Bus - StL Bus Index,Origin,N/A,27053103100,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),199
+Bus - StL Bus Index,Origin,N/A,27053103100,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),122
+Bus - StL Bus Index,Origin,N/A,27053103600,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),2296
+Bus - StL Bus Index,Origin,N/A,27053103600,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),153
+Bus - StL Bus Index,Origin,N/A,27053103600,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),325
+Bus - StL Bus Index,Origin,N/A,27053103600,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),704
+Bus - StL Bus Index,Origin,N/A,27053103600,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),686
+Bus - StL Bus Index,Origin,N/A,27053103600,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),427
+Bus - StL Bus Index,Origin,N/A,27053103600,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),2174
+Bus - StL Bus Index,Origin,N/A,27053103600,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),73
+Bus - StL Bus Index,Origin,N/A,27053103600,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),384
+Bus - StL Bus Index,Origin,N/A,27053103600,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),691
+Bus - StL Bus Index,Origin,N/A,27053103600,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),691
+Bus - StL Bus Index,Origin,N/A,27053103600,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),335
+Bus - StL Bus Index,Origin,N/A,27053103600,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),2313
+Bus - StL Bus Index,Origin,N/A,27053103600,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),339
+Bus - StL Bus Index,Origin,N/A,27053103600,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),153
+Bus - StL Bus Index,Origin,N/A,27053103600,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),705
+Bus - StL Bus Index,Origin,N/A,27053103600,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),602
+Bus - StL Bus Index,Origin,N/A,27053103600,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),515
+Bus - StL Bus Index,Origin,N/A,27053103700,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),2117
+Bus - StL Bus Index,Origin,N/A,27053103700,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),105
+Bus - StL Bus Index,Origin,N/A,27053103700,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),400
+Bus - StL Bus Index,Origin,N/A,27053103700,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),617
+Bus - StL Bus Index,Origin,N/A,27053103700,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),600
+Bus - StL Bus Index,Origin,N/A,27053103700,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),395
+Bus - StL Bus Index,Origin,N/A,27053103700,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),2188
+Bus - StL Bus Index,Origin,N/A,27053103700,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),75
+Bus - StL Bus Index,Origin,N/A,27053103700,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),500
+Bus - StL Bus Index,Origin,N/A,27053103700,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),645
+Bus - StL Bus Index,Origin,N/A,27053103700,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),628
+Bus - StL Bus Index,Origin,N/A,27053103700,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),341
+Bus - StL Bus Index,Origin,N/A,27053103700,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1726
+Bus - StL Bus Index,Origin,N/A,27053103700,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),167
+Bus - StL Bus Index,Origin,N/A,27053103700,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),150
+Bus - StL Bus Index,Origin,N/A,27053103700,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),529
+Bus - StL Bus Index,Origin,N/A,27053103700,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),462
+Bus - StL Bus Index,Origin,N/A,27053103700,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),418
+Bus - StL Bus Index,Origin,N/A,27053103900,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1346
+Bus - StL Bus Index,Origin,N/A,27053103900,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),82
+Bus - StL Bus Index,Origin,N/A,27053103900,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),160
+Bus - StL Bus Index,Origin,N/A,27053103900,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),389
+Bus - StL Bus Index,Origin,N/A,27053103900,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),410
+Bus - StL Bus Index,Origin,N/A,27053103900,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),305
+Bus - StL Bus Index,Origin,N/A,27053103900,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1288
+Bus - StL Bus Index,Origin,N/A,27053103900,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),43
+Bus - StL Bus Index,Origin,N/A,27053103900,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),208
+Bus - StL Bus Index,Origin,N/A,27053103900,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),373
+Bus - StL Bus Index,Origin,N/A,27053103900,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),419
+Bus - StL Bus Index,Origin,N/A,27053103900,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),244
+Bus - StL Bus Index,Origin,N/A,27053103900,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1319
+Bus - StL Bus Index,Origin,N/A,27053103900,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),174
+Bus - StL Bus Index,Origin,N/A,27053103900,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),57
+Bus - StL Bus Index,Origin,N/A,27053103900,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),402
+Bus - StL Bus Index,Origin,N/A,27053103900,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),353
+Bus - StL Bus Index,Origin,N/A,27053103900,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),334
+Bus - StL Bus Index,Origin,N/A,27053104001,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1083
+Bus - StL Bus Index,Origin,N/A,27053104001,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),33
+Bus - StL Bus Index,Origin,N/A,27053104001,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),191
+Bus - StL Bus Index,Origin,N/A,27053104001,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),359
+Bus - StL Bus Index,Origin,N/A,27053104001,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),365
+Bus - StL Bus Index,Origin,N/A,27053104001,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),135
+Bus - StL Bus Index,Origin,N/A,27053104001,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1218
+Bus - StL Bus Index,Origin,N/A,27053104001,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),27
+Bus - StL Bus Index,Origin,N/A,27053104001,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),240
+Bus - StL Bus Index,Origin,N/A,27053104001,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),389
+Bus - StL Bus Index,Origin,N/A,27053104001,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),443
+Bus - StL Bus Index,Origin,N/A,27053104001,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),120
+Bus - StL Bus Index,Origin,N/A,27053104001,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),651
+Bus - StL Bus Index,Origin,N/A,27053104001,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),43
+Bus - StL Bus Index,Origin,N/A,27053104001,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),66
+Bus - StL Bus Index,Origin,N/A,27053104001,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),247
+Bus - StL Bus Index,Origin,N/A,27053104001,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),159
+Bus - StL Bus Index,Origin,N/A,27053104001,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),136
+Bus - StL Bus Index,Origin,N/A,27053104002,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),2483
+Bus - StL Bus Index,Origin,N/A,27053104002,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),70
+Bus - StL Bus Index,Origin,N/A,27053104002,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),399
+Bus - StL Bus Index,Origin,N/A,27053104002,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),754
+Bus - StL Bus Index,Origin,N/A,27053104002,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),1020
+Bus - StL Bus Index,Origin,N/A,27053104002,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),240
+Bus - StL Bus Index,Origin,N/A,27053104002,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),2920
+Bus - StL Bus Index,Origin,N/A,27053104002,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),61
+Bus - StL Bus Index,Origin,N/A,27053104002,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),529
+Bus - StL Bus Index,Origin,N/A,27053104002,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),824
+Bus - StL Bus Index,Origin,N/A,27053104002,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),1288
+Bus - StL Bus Index,Origin,N/A,27053104002,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),218
+Bus - StL Bus Index,Origin,N/A,27053104002,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1213
+Bus - StL Bus Index,Origin,N/A,27053104002,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),79
+Bus - StL Bus Index,Origin,N/A,27053104002,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),106
+Bus - StL Bus Index,Origin,N/A,27053104002,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),440
+Bus - StL Bus Index,Origin,N/A,27053104002,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),366
+Bus - StL Bus Index,Origin,N/A,27053104002,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),223
+Bus - StL Bus Index,Origin,N/A,27053104400,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),10428
+Bus - StL Bus Index,Origin,N/A,27053104400,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),579
+Bus - StL Bus Index,Origin,N/A,27053104400,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),1107
+Bus - StL Bus Index,Origin,N/A,27053104400,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),2697
+Bus - StL Bus Index,Origin,N/A,27053104400,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),4255
+Bus - StL Bus Index,Origin,N/A,27053104400,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),1790
+Bus - StL Bus Index,Origin,N/A,27053104400,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),11403
+Bus - StL Bus Index,Origin,N/A,27053104400,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),430
+Bus - StL Bus Index,Origin,N/A,27053104400,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),1273
+Bus - StL Bus Index,Origin,N/A,27053104400,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),2908
+Bus - StL Bus Index,Origin,N/A,27053104400,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),5225
+Bus - StL Bus Index,Origin,N/A,27053104400,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),1568
+Bus - StL Bus Index,Origin,N/A,27053104400,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),7394
+Bus - StL Bus Index,Origin,N/A,27053104400,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),956
+Bus - StL Bus Index,Origin,N/A,27053104400,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),660
+Bus - StL Bus Index,Origin,N/A,27053104400,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),1970
+Bus - StL Bus Index,Origin,N/A,27053104400,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),1938
+Bus - StL Bus Index,Origin,N/A,27053104400,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),1869
+Bus - StL Bus Index,Origin,N/A,27053104801,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),537
+Bus - StL Bus Index,Origin,N/A,27053104801,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),38
+Bus - StL Bus Index,Origin,N/A,27053104801,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),59
+Bus - StL Bus Index,Origin,N/A,27053104801,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),156
+Bus - StL Bus Index,Origin,N/A,27053104801,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),166
+Bus - StL Bus Index,Origin,N/A,27053104801,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),117
+Bus - StL Bus Index,Origin,N/A,27053104801,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),533
+Bus - StL Bus Index,Origin,N/A,27053104801,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),34
+Bus - StL Bus Index,Origin,N/A,27053104801,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),64
+Bus - StL Bus Index,Origin,N/A,27053104801,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),157
+Bus - StL Bus Index,Origin,N/A,27053104801,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),171
+Bus - StL Bus Index,Origin,N/A,27053104801,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),107
+Bus - StL Bus Index,Origin,N/A,27053104801,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),479
+Bus - StL Bus Index,Origin,N/A,27053104801,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),51
+Bus - StL Bus Index,Origin,N/A,27053104801,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),44
+Bus - StL Bus Index,Origin,N/A,27053104801,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),132
+Bus - StL Bus Index,Origin,N/A,27053104801,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),133
+Bus - StL Bus Index,Origin,N/A,27053104801,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),120
+Bus - StL Bus Index,Origin,N/A,27053104802,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),2902
+Bus - StL Bus Index,Origin,N/A,27053104802,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),100
+Bus - StL Bus Index,Origin,N/A,27053104802,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),382
+Bus - StL Bus Index,Origin,N/A,27053104802,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),937
+Bus - StL Bus Index,Origin,N/A,27053104802,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),989
+Bus - StL Bus Index,Origin,N/A,27053104802,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),493
+Bus - StL Bus Index,Origin,N/A,27053104802,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),3251
+Bus - StL Bus Index,Origin,N/A,27053104802,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),85
+Bus - StL Bus Index,Origin,N/A,27053104802,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),459
+Bus - StL Bus Index,Origin,N/A,27053104802,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),1051
+Bus - StL Bus Index,Origin,N/A,27053104802,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),1159
+Bus - StL Bus Index,Origin,N/A,27053104802,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),497
+Bus - StL Bus Index,Origin,N/A,27053104802,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1879
+Bus - StL Bus Index,Origin,N/A,27053104802,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),140
+Bus - StL Bus Index,Origin,N/A,27053104802,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),168
+Bus - StL Bus Index,Origin,N/A,27053104802,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),567
+Bus - StL Bus Index,Origin,N/A,27053104802,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),575
+Bus - StL Bus Index,Origin,N/A,27053104802,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),429
+Bus - StL Bus Index,Origin,N/A,27053104901,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),3515
+Bus - StL Bus Index,Origin,N/A,27053104901,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),61
+Bus - StL Bus Index,Origin,N/A,27053104901,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),345
+Bus - StL Bus Index,Origin,N/A,27053104901,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),1192
+Bus - StL Bus Index,Origin,N/A,27053104901,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),1344
+Bus - StL Bus Index,Origin,N/A,27053104901,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),573
+Bus - StL Bus Index,Origin,N/A,27053104901,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),4015
+Bus - StL Bus Index,Origin,N/A,27053104901,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),43
+Bus - StL Bus Index,Origin,N/A,27053104901,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),421
+Bus - StL Bus Index,Origin,N/A,27053104901,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),1387
+Bus - StL Bus Index,Origin,N/A,27053104901,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),1585
+Bus - StL Bus Index,Origin,N/A,27053104901,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),579
+Bus - StL Bus Index,Origin,N/A,27053104901,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),2078
+Bus - StL Bus Index,Origin,N/A,27053104901,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),104
+Bus - StL Bus Index,Origin,N/A,27053104901,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),140
+Bus - StL Bus Index,Origin,N/A,27053104901,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),644
+Bus - StL Bus Index,Origin,N/A,27053104901,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),695
+Bus - StL Bus Index,Origin,N/A,27053104901,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),495
+Bus - StL Bus Index,Origin,N/A,27053104902,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1377
+Bus - StL Bus Index,Origin,N/A,27053104902,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),42
+Bus - StL Bus Index,Origin,N/A,27053104902,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),191
+Bus - StL Bus Index,Origin,N/A,27053104902,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),440
+Bus - StL Bus Index,Origin,N/A,27053104902,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),498
+Bus - StL Bus Index,Origin,N/A,27053104902,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),207
+Bus - StL Bus Index,Origin,N/A,27053104902,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1465
+Bus - StL Bus Index,Origin,N/A,27053104902,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),33
+Bus - StL Bus Index,Origin,N/A,27053104902,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),230
+Bus - StL Bus Index,Origin,N/A,27053104902,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),465
+Bus - StL Bus Index,Origin,N/A,27053104902,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),571
+Bus - StL Bus Index,Origin,N/A,27053104902,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),166
+Bus - StL Bus Index,Origin,N/A,27053104902,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1041
+Bus - StL Bus Index,Origin,N/A,27053104902,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),56
+Bus - StL Bus Index,Origin,N/A,27053104902,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),94
+Bus - StL Bus Index,Origin,N/A,27053104902,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),336
+Bus - StL Bus Index,Origin,N/A,27053104902,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),327
+Bus - StL Bus Index,Origin,N/A,27053104902,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),228
+Bus - StL Bus Index,Origin,N/A,27053105201,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1487
+Bus - StL Bus Index,Origin,N/A,27053105201,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),40
+Bus - StL Bus Index,Origin,N/A,27053105201,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),207
+Bus - StL Bus Index,Origin,N/A,27053105201,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),518
+Bus - StL Bus Index,Origin,N/A,27053105201,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),478
+Bus - StL Bus Index,Origin,N/A,27053105201,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),244
+Bus - StL Bus Index,Origin,N/A,27053105201,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1695
+Bus - StL Bus Index,Origin,N/A,27053105201,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),33
+Bus - StL Bus Index,Origin,N/A,27053105201,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),237
+Bus - StL Bus Index,Origin,N/A,27053105201,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),599
+Bus - StL Bus Index,Origin,N/A,27053105201,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),570
+Bus - StL Bus Index,Origin,N/A,27053105201,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),256
+Bus - StL Bus Index,Origin,N/A,27053105201,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1023
+Bus - StL Bus Index,Origin,N/A,27053105201,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),64
+Bus - StL Bus Index,Origin,N/A,27053105201,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),101
+Bus - StL Bus Index,Origin,N/A,27053105201,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),359
+Bus - StL Bus Index,Origin,N/A,27053105201,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),304
+Bus - StL Bus Index,Origin,N/A,27053105201,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),194
+Bus - StL Bus Index,Origin,N/A,27053105204,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),2435
+Bus - StL Bus Index,Origin,N/A,27053105204,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),118
+Bus - StL Bus Index,Origin,N/A,27053105204,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),417
+Bus - StL Bus Index,Origin,N/A,27053105204,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),812
+Bus - StL Bus Index,Origin,N/A,27053105204,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),679
+Bus - StL Bus Index,Origin,N/A,27053105204,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),409
+Bus - StL Bus Index,Origin,N/A,27053105204,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),2358
+Bus - StL Bus Index,Origin,N/A,27053105204,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),93
+Bus - StL Bus Index,Origin,N/A,27053105204,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),456
+Bus - StL Bus Index,Origin,N/A,27053105204,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),784
+Bus - StL Bus Index,Origin,N/A,27053105204,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),674
+Bus - StL Bus Index,Origin,N/A,27053105204,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),351
+Bus - StL Bus Index,Origin,N/A,27053105204,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),2352
+Bus - StL Bus Index,Origin,N/A,27053105204,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),181
+Bus - StL Bus Index,Origin,N/A,27053105204,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),265
+Bus - StL Bus Index,Origin,N/A,27053105204,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),840
+Bus - StL Bus Index,Origin,N/A,27053105204,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),681
+Bus - StL Bus Index,Origin,N/A,27053105204,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),386
+Bus - StL Bus Index,Origin,N/A,27053105400,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),3813
+Bus - StL Bus Index,Origin,N/A,27053105400,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),154
+Bus - StL Bus Index,Origin,N/A,27053105400,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),541
+Bus - StL Bus Index,Origin,N/A,27053105400,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),1261
+Bus - StL Bus Index,Origin,N/A,27053105400,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),1306
+Bus - StL Bus Index,Origin,N/A,27053105400,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),551
+Bus - StL Bus Index,Origin,N/A,27053105400,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),4231
+Bus - StL Bus Index,Origin,N/A,27053105400,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),122
+Bus - StL Bus Index,Origin,N/A,27053105400,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),642
+Bus - StL Bus Index,Origin,N/A,27053105400,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),1444
+Bus - StL Bus Index,Origin,N/A,27053105400,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),1534
+Bus - StL Bus Index,Origin,N/A,27053105400,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),489
+Bus - StL Bus Index,Origin,N/A,27053105400,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),2507
+Bus - StL Bus Index,Origin,N/A,27053105400,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),241
+Bus - StL Bus Index,Origin,N/A,27053105400,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),270
+Bus - StL Bus Index,Origin,N/A,27053105400,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),734
+Bus - StL Bus Index,Origin,N/A,27053105400,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),716
+Bus - StL Bus Index,Origin,N/A,27053105400,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),547
+Bus - StL Bus Index,Origin,N/A,27053105500,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),937
+Bus - StL Bus Index,Origin,N/A,27053105500,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),29
+Bus - StL Bus Index,Origin,N/A,27053105500,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),167
+Bus - StL Bus Index,Origin,N/A,27053105500,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),314
+Bus - StL Bus Index,Origin,N/A,27053105500,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),257
+Bus - StL Bus Index,Origin,N/A,27053105500,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),170
+Bus - StL Bus Index,Origin,N/A,27053105500,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),929
+Bus - StL Bus Index,Origin,N/A,27053105500,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),25
+Bus - StL Bus Index,Origin,N/A,27053105500,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),211
+Bus - StL Bus Index,Origin,N/A,27053105500,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),301
+Bus - StL Bus Index,Origin,N/A,27053105500,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),241
+Bus - StL Bus Index,Origin,N/A,27053105500,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),150
+Bus - StL Bus Index,Origin,N/A,27053105500,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),859
+Bus - StL Bus Index,Origin,N/A,27053105500,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),35
+Bus - StL Bus Index,Origin,N/A,27053105500,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),62
+Bus - StL Bus Index,Origin,N/A,27053105500,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),325
+Bus - StL Bus Index,Origin,N/A,27053105500,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),274
+Bus - StL Bus Index,Origin,N/A,27053105500,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),162
+Bus - StL Bus Index,Origin,N/A,27053105600,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1363
+Bus - StL Bus Index,Origin,N/A,27053105600,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),50
+Bus - StL Bus Index,Origin,N/A,27053105600,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),290
+Bus - StL Bus Index,Origin,N/A,27053105600,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),443
+Bus - StL Bus Index,Origin,N/A,27053105600,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),362
+Bus - StL Bus Index,Origin,N/A,27053105600,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),218
+Bus - StL Bus Index,Origin,N/A,27053105600,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1386
+Bus - StL Bus Index,Origin,N/A,27053105600,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),46
+Bus - StL Bus Index,Origin,N/A,27053105600,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),340
+Bus - StL Bus Index,Origin,N/A,27053105600,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),431
+Bus - StL Bus Index,Origin,N/A,27053105600,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),362
+Bus - StL Bus Index,Origin,N/A,27053105600,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),207
+Bus - StL Bus Index,Origin,N/A,27053105600,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1227
+Bus - StL Bus Index,Origin,N/A,27053105600,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),65
+Bus - StL Bus Index,Origin,N/A,27053105600,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),162
+Bus - StL Bus Index,Origin,N/A,27053105600,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),443
+Bus - StL Bus Index,Origin,N/A,27053105600,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),337
+Bus - StL Bus Index,Origin,N/A,27053105600,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),219
+Bus - StL Bus Index,Origin,N/A,27053105700,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1016
+Bus - StL Bus Index,Origin,N/A,27053105700,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),35
+Bus - StL Bus Index,Origin,N/A,27053105700,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),179
+Bus - StL Bus Index,Origin,N/A,27053105700,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),369
+Bus - StL Bus Index,Origin,N/A,27053105700,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),283
+Bus - StL Bus Index,Origin,N/A,27053105700,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),149
+Bus - StL Bus Index,Origin,N/A,27053105700,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1054
+Bus - StL Bus Index,Origin,N/A,27053105700,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),35
+Bus - StL Bus Index,Origin,N/A,27053105700,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),212
+Bus - StL Bus Index,Origin,N/A,27053105700,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),369
+Bus - StL Bus Index,Origin,N/A,27053105700,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),306
+Bus - StL Bus Index,Origin,N/A,27053105700,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),132
+Bus - StL Bus Index,Origin,N/A,27053105700,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),844
+Bus - StL Bus Index,Origin,N/A,27053105700,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),36
+Bus - StL Bus Index,Origin,N/A,27053105700,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),81
+Bus - StL Bus Index,Origin,N/A,27053105700,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),334
+Bus - StL Bus Index,Origin,N/A,27053105700,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),220
+Bus - StL Bus Index,Origin,N/A,27053105700,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),174
+Bus - StL Bus Index,Origin,N/A,27053106000,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1320
+Bus - StL Bus Index,Origin,N/A,27053106000,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),54
+Bus - StL Bus Index,Origin,N/A,27053106000,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),177
+Bus - StL Bus Index,Origin,N/A,27053106000,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),482
+Bus - StL Bus Index,Origin,N/A,27053106000,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),436
+Bus - StL Bus Index,Origin,N/A,27053106000,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),171
+Bus - StL Bus Index,Origin,N/A,27053106000,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1409
+Bus - StL Bus Index,Origin,N/A,27053106000,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),49
+Bus - StL Bus Index,Origin,N/A,27053106000,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),212
+Bus - StL Bus Index,Origin,N/A,27053106000,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),501
+Bus - StL Bus Index,Origin,N/A,27053106000,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),487
+Bus - StL Bus Index,Origin,N/A,27053106000,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),160
+Bus - StL Bus Index,Origin,N/A,27053106000,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),993
+Bus - StL Bus Index,Origin,N/A,27053106000,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),69
+Bus - StL Bus Index,Origin,N/A,27053106000,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),87
+Bus - StL Bus Index,Origin,N/A,27053106000,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),387
+Bus - StL Bus Index,Origin,N/A,27053106000,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),288
+Bus - StL Bus Index,Origin,N/A,27053106000,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),162
+Bus - StL Bus Index,Origin,N/A,27053106200,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1433
+Bus - StL Bus Index,Origin,N/A,27053106200,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),47
+Bus - StL Bus Index,Origin,N/A,27053106200,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),216
+Bus - StL Bus Index,Origin,N/A,27053106200,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),464
+Bus - StL Bus Index,Origin,N/A,27053106200,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),466
+Bus - StL Bus Index,Origin,N/A,27053106200,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),240
+Bus - StL Bus Index,Origin,N/A,27053106200,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1484
+Bus - StL Bus Index,Origin,N/A,27053106200,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),37
+Bus - StL Bus Index,Origin,N/A,27053106200,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),262
+Bus - StL Bus Index,Origin,N/A,27053106200,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),475
+Bus - StL Bus Index,Origin,N/A,27053106200,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),487
+Bus - StL Bus Index,Origin,N/A,27053106200,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),224
+Bus - StL Bus Index,Origin,N/A,27053106200,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1209
+Bus - StL Bus Index,Origin,N/A,27053106200,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),77
+Bus - StL Bus Index,Origin,N/A,27053106200,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),103
+Bus - StL Bus Index,Origin,N/A,27053106200,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),419
+Bus - StL Bus Index,Origin,N/A,27053106200,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),371
+Bus - StL Bus Index,Origin,N/A,27053106200,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),239
+Bus - StL Bus Index,Origin,N/A,27053106400,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),400
+Bus - StL Bus Index,Origin,N/A,27053106400,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),8
+Bus - StL Bus Index,Origin,N/A,27053106400,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),71
+Bus - StL Bus Index,Origin,N/A,27053106400,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),140
+Bus - StL Bus Index,Origin,N/A,27053106400,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),118
+Bus - StL Bus Index,Origin,N/A,27053106400,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),62
+Bus - StL Bus Index,Origin,N/A,27053106400,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),415
+Bus - StL Bus Index,Origin,N/A,27053106400,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),10
+Bus - StL Bus Index,Origin,N/A,27053106400,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),86
+Bus - StL Bus Index,Origin,N/A,27053106400,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),136
+Bus - StL Bus Index,Origin,N/A,27053106400,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),122
+Bus - StL Bus Index,Origin,N/A,27053106400,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),61
+Bus - StL Bus Index,Origin,N/A,27053106400,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),359
+Bus - StL Bus Index,Origin,N/A,27053106400,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),3
+Bus - StL Bus Index,Origin,N/A,27053106400,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),35
+Bus - StL Bus Index,Origin,N/A,27053106400,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),149
+Bus - StL Bus Index,Origin,N/A,27053106400,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),111
+Bus - StL Bus Index,Origin,N/A,27053106400,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),62
+Bus - StL Bus Index,Origin,N/A,27053106700,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1831
+Bus - StL Bus Index,Origin,N/A,27053106700,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),99
+Bus - StL Bus Index,Origin,N/A,27053106700,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),398
+Bus - StL Bus Index,Origin,N/A,27053106700,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),513
+Bus - StL Bus Index,Origin,N/A,27053106700,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),476
+Bus - StL Bus Index,Origin,N/A,27053106700,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),344
+Bus - StL Bus Index,Origin,N/A,27053106700,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1808
+Bus - StL Bus Index,Origin,N/A,27053106700,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),68
+Bus - StL Bus Index,Origin,N/A,27053106700,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),476
+Bus - StL Bus Index,Origin,N/A,27053106700,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),508
+Bus - StL Bus Index,Origin,N/A,27053106700,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),451
+Bus - StL Bus Index,Origin,N/A,27053106700,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),303
+Bus - StL Bus Index,Origin,N/A,27053106700,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1637
+Bus - StL Bus Index,Origin,N/A,27053106700,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),162
+Bus - StL Bus Index,Origin,N/A,27053106700,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),146
+Bus - StL Bus Index,Origin,N/A,27053106700,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),507
+Bus - StL Bus Index,Origin,N/A,27053106700,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),476
+Bus - StL Bus Index,Origin,N/A,27053106700,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),347
+Bus - StL Bus Index,Origin,N/A,27053106900,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1710
+Bus - StL Bus Index,Origin,N/A,27053106900,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),46
+Bus - StL Bus Index,Origin,N/A,27053106900,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),276
+Bus - StL Bus Index,Origin,N/A,27053106900,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),605
+Bus - StL Bus Index,Origin,N/A,27053106900,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),506
+Bus - StL Bus Index,Origin,N/A,27053106900,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),278
+Bus - StL Bus Index,Origin,N/A,27053106900,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1689
+Bus - StL Bus Index,Origin,N/A,27053106900,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),39
+Bus - StL Bus Index,Origin,N/A,27053106900,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),325
+Bus - StL Bus Index,Origin,N/A,27053106900,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),580
+Bus - StL Bus Index,Origin,N/A,27053106900,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),493
+Bus - StL Bus Index,Origin,N/A,27053106900,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),253
+Bus - StL Bus Index,Origin,N/A,27053106900,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1597
+Bus - StL Bus Index,Origin,N/A,27053106900,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),54
+Bus - StL Bus Index,Origin,N/A,27053106900,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),146
+Bus - StL Bus Index,Origin,N/A,27053106900,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),620
+Bus - StL Bus Index,Origin,N/A,27053106900,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),511
+Bus - StL Bus Index,Origin,N/A,27053106900,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),265
+Bus - StL Bus Index,Origin,N/A,27053107000,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1107
+Bus - StL Bus Index,Origin,N/A,27053107000,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),52
+Bus - StL Bus Index,Origin,N/A,27053107000,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),139
+Bus - StL Bus Index,Origin,N/A,27053107000,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),359
+Bus - StL Bus Index,Origin,N/A,27053107000,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),316
+Bus - StL Bus Index,Origin,N/A,27053107000,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),240
+Bus - StL Bus Index,Origin,N/A,27053107000,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1014
+Bus - StL Bus Index,Origin,N/A,27053107000,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),45
+Bus - StL Bus Index,Origin,N/A,27053107000,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),162
+Bus - StL Bus Index,Origin,N/A,27053107000,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),317
+Bus - StL Bus Index,Origin,N/A,27053107000,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),282
+Bus - StL Bus Index,Origin,N/A,27053107000,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),208
+Bus - StL Bus Index,Origin,N/A,27053107000,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1203
+Bus - StL Bus Index,Origin,N/A,27053107000,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),69
+Bus - StL Bus Index,Origin,N/A,27053107000,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),73
+Bus - StL Bus Index,Origin,N/A,27053107000,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),431
+Bus - StL Bus Index,Origin,N/A,27053107000,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),376
+Bus - StL Bus Index,Origin,N/A,27053107000,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),254
+Bus - StL Bus Index,Origin,N/A,27053107400,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1358
+Bus - StL Bus Index,Origin,N/A,27053107400,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),36
+Bus - StL Bus Index,Origin,N/A,27053107400,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),138
+Bus - StL Bus Index,Origin,N/A,27053107400,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),477
+Bus - StL Bus Index,Origin,N/A,27053107400,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),476
+Bus - StL Bus Index,Origin,N/A,27053107400,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),231
+Bus - StL Bus Index,Origin,N/A,27053107400,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1348
+Bus - StL Bus Index,Origin,N/A,27053107400,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),28
+Bus - StL Bus Index,Origin,N/A,27053107400,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),158
+Bus - StL Bus Index,Origin,N/A,27053107400,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),455
+Bus - StL Bus Index,Origin,N/A,27053107400,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),497
+Bus - StL Bus Index,Origin,N/A,27053107400,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),209
+Bus - StL Bus Index,Origin,N/A,27053107400,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1232
+Bus - StL Bus Index,Origin,N/A,27053107400,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),59
+Bus - StL Bus Index,Origin,N/A,27053107400,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),67
+Bus - StL Bus Index,Origin,N/A,27053107400,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),461
+Bus - StL Bus Index,Origin,N/A,27053107400,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),400
+Bus - StL Bus Index,Origin,N/A,27053107400,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),245
+Bus - StL Bus Index,Origin,N/A,27053107500,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),695
+Bus - StL Bus Index,Origin,N/A,27053107500,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),41
+Bus - StL Bus Index,Origin,N/A,27053107500,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),115
+Bus - StL Bus Index,Origin,N/A,27053107500,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),240
+Bus - StL Bus Index,Origin,N/A,27053107500,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),203
+Bus - StL Bus Index,Origin,N/A,27053107500,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),96
+Bus - StL Bus Index,Origin,N/A,27053107500,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),765
+Bus - StL Bus Index,Origin,N/A,27053107500,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),32
+Bus - StL Bus Index,Origin,N/A,27053107500,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),141
+Bus - StL Bus Index,Origin,N/A,27053107500,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),251
+Bus - StL Bus Index,Origin,N/A,27053107500,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),250
+Bus - StL Bus Index,Origin,N/A,27053107500,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),91
+Bus - StL Bus Index,Origin,N/A,27053107500,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),475
+Bus - StL Bus Index,Origin,N/A,27053107500,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),62
+Bus - StL Bus Index,Origin,N/A,27053107500,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),49
+Bus - StL Bus Index,Origin,N/A,27053107500,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),184
+Bus - StL Bus Index,Origin,N/A,27053107500,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),96
+Bus - StL Bus Index,Origin,N/A,27053107500,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),83
+Bus - StL Bus Index,Origin,N/A,27053125600,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1831
+Bus - StL Bus Index,Origin,N/A,27053125600,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),61
+Bus - StL Bus Index,Origin,N/A,27053125600,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),329
+Bus - StL Bus Index,Origin,N/A,27053125600,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),552
+Bus - StL Bus Index,Origin,N/A,27053125600,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),631
+Bus - StL Bus Index,Origin,N/A,27053125600,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),257
+Bus - StL Bus Index,Origin,N/A,27053125600,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1916
+Bus - StL Bus Index,Origin,N/A,27053125600,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),54
+Bus - StL Bus Index,Origin,N/A,27053125600,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),421
+Bus - StL Bus Index,Origin,N/A,27053125600,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),560
+Bus - StL Bus Index,Origin,N/A,27053125600,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),679
+Bus - StL Bus Index,Origin,N/A,27053125600,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),202
+Bus - StL Bus Index,Origin,N/A,27053125600,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1441
+Bus - StL Bus Index,Origin,N/A,27053125600,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),61
+Bus - StL Bus Index,Origin,N/A,27053125600,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),125
+Bus - StL Bus Index,Origin,N/A,27053125600,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),471
+Bus - StL Bus Index,Origin,N/A,27053125600,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),487
+Bus - StL Bus Index,Origin,N/A,27053125600,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),297
+Bus - StL Bus Index,Origin,N/A,27053125800,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),3282
+Bus - StL Bus Index,Origin,N/A,27053125800,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),105
+Bus - StL Bus Index,Origin,N/A,27053125800,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),417
+Bus - StL Bus Index,Origin,N/A,27053125800,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),1123
+Bus - StL Bus Index,Origin,N/A,27053125800,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),1173
+Bus - StL Bus Index,Origin,N/A,27053125800,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),464
+Bus - StL Bus Index,Origin,N/A,27053125800,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),3532
+Bus - StL Bus Index,Origin,N/A,27053125800,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),101
+Bus - StL Bus Index,Origin,N/A,27053125800,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),465
+Bus - StL Bus Index,Origin,N/A,27053125800,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),1183
+Bus - StL Bus Index,Origin,N/A,27053125800,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),1321
+Bus - StL Bus Index,Origin,N/A,27053125800,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),463
+Bus - StL Bus Index,Origin,N/A,27053125800,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),2504
+Bus - StL Bus Index,Origin,N/A,27053125800,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),107
+Bus - StL Bus Index,Origin,N/A,27053125800,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),266
+Bus - StL Bus Index,Origin,N/A,27053125800,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),906
+Bus - StL Bus Index,Origin,N/A,27053125800,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),811
+Bus - StL Bus Index,Origin,N/A,27053125800,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),413
+Bus - StL Bus Index,Origin,N/A,27053125900,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),2173
+Bus - StL Bus Index,Origin,N/A,27053125900,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),71
+Bus - StL Bus Index,Origin,N/A,27053125900,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),286
+Bus - StL Bus Index,Origin,N/A,27053125900,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),728
+Bus - StL Bus Index,Origin,N/A,27053125900,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),733
+Bus - StL Bus Index,Origin,N/A,27053125900,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),354
+Bus - StL Bus Index,Origin,N/A,27053125900,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),2170
+Bus - StL Bus Index,Origin,N/A,27053125900,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),73
+Bus - StL Bus Index,Origin,N/A,27053125900,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),336
+Bus - StL Bus Index,Origin,N/A,27053125900,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),703
+Bus - StL Bus Index,Origin,N/A,27053125900,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),729
+Bus - StL Bus Index,Origin,N/A,27053125900,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),330
+Bus - StL Bus Index,Origin,N/A,27053125900,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1997
+Bus - StL Bus Index,Origin,N/A,27053125900,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),69
+Bus - StL Bus Index,Origin,N/A,27053125900,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),157
+Bus - StL Bus Index,Origin,N/A,27053125900,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),746
+Bus - StL Bus Index,Origin,N/A,27053125900,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),662
+Bus - StL Bus Index,Origin,N/A,27053125900,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),364
+Bus - StL Bus Index,Origin,N/A,27053126000,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),3415
+Bus - StL Bus Index,Origin,N/A,27053126000,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),112
+Bus - StL Bus Index,Origin,N/A,27053126000,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),484
+Bus - StL Bus Index,Origin,N/A,27053126000,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),1148
+Bus - StL Bus Index,Origin,N/A,27053126000,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),1196
+Bus - StL Bus Index,Origin,N/A,27053126000,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),475
+Bus - StL Bus Index,Origin,N/A,27053126000,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),3649
+Bus - StL Bus Index,Origin,N/A,27053126000,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),91
+Bus - StL Bus Index,Origin,N/A,27053126000,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),555
+Bus - StL Bus Index,Origin,N/A,27053126000,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),1197
+Bus - StL Bus Index,Origin,N/A,27053126000,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),1363
+Bus - StL Bus Index,Origin,N/A,27053126000,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),443
+Bus - StL Bus Index,Origin,N/A,27053126000,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),2502
+Bus - StL Bus Index,Origin,N/A,27053126000,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),156
+Bus - StL Bus Index,Origin,N/A,27053126000,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),290
+Bus - StL Bus Index,Origin,N/A,27053126000,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),891
+Bus - StL Bus Index,Origin,N/A,27053126000,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),742
+Bus - StL Bus Index,Origin,N/A,27053126000,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),423
+Bus - StL Bus Index,Origin,N/A,27053126101,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1645
+Bus - StL Bus Index,Origin,N/A,27053126101,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),81
+Bus - StL Bus Index,Origin,N/A,27053126101,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),253
+Bus - StL Bus Index,Origin,N/A,27053126101,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),459
+Bus - StL Bus Index,Origin,N/A,27053126101,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),623
+Bus - StL Bus Index,Origin,N/A,27053126101,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),229
+Bus - StL Bus Index,Origin,N/A,27053126101,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1796
+Bus - StL Bus Index,Origin,N/A,27053126101,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),60
+Bus - StL Bus Index,Origin,N/A,27053126101,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),276
+Bus - StL Bus Index,Origin,N/A,27053126101,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),486
+Bus - StL Bus Index,Origin,N/A,27053126101,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),751
+Bus - StL Bus Index,Origin,N/A,27053126101,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),223
+Bus - StL Bus Index,Origin,N/A,27053126101,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1120
+Bus - StL Bus Index,Origin,N/A,27053126101,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),125
+Bus - StL Bus Index,Origin,N/A,27053126101,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),155
+Bus - StL Bus Index,Origin,N/A,27053126101,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),337
+Bus - StL Bus Index,Origin,N/A,27053126101,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),301
+Bus - StL Bus Index,Origin,N/A,27053126101,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),202
+Bus - StL Bus Index,Origin,N/A,27053126102,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),15387
+Bus - StL Bus Index,Origin,N/A,27053126102,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),991
+Bus - StL Bus Index,Origin,N/A,27053126102,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),1654
+Bus - StL Bus Index,Origin,N/A,27053126102,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),3843
+Bus - StL Bus Index,Origin,N/A,27053126102,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),6418
+Bus - StL Bus Index,Origin,N/A,27053126102,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),2479
+Bus - StL Bus Index,Origin,N/A,27053126102,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),17024
+Bus - StL Bus Index,Origin,N/A,27053126102,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),639
+Bus - StL Bus Index,Origin,N/A,27053126102,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),1964
+Bus - StL Bus Index,Origin,N/A,27053126102,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),4195
+Bus - StL Bus Index,Origin,N/A,27053126102,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),7964
+Bus - StL Bus Index,Origin,N/A,27053126102,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),2263
+Bus - StL Bus Index,Origin,N/A,27053126102,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),10449
+Bus - StL Bus Index,Origin,N/A,27053126102,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),1831
+Bus - StL Bus Index,Origin,N/A,27053126102,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),875
+Bus - StL Bus Index,Origin,N/A,27053126102,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),2589
+Bus - StL Bus Index,Origin,N/A,27053126102,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),2730
+Bus - StL Bus Index,Origin,N/A,27053126102,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),2424
+Bus - StL Bus Index,Origin,N/A,27053126201,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),2750
+Bus - StL Bus Index,Origin,N/A,27053126201,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),176
+Bus - StL Bus Index,Origin,N/A,27053126201,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),496
+Bus - StL Bus Index,Origin,N/A,27053126201,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),870
+Bus - StL Bus Index,Origin,N/A,27053126201,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),750
+Bus - StL Bus Index,Origin,N/A,27053126201,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),458
+Bus - StL Bus Index,Origin,N/A,27053126201,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),2925
+Bus - StL Bus Index,Origin,N/A,27053126201,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),136
+Bus - StL Bus Index,Origin,N/A,27053126201,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),597
+Bus - StL Bus Index,Origin,N/A,27053126201,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),939
+Bus - StL Bus Index,Origin,N/A,27053126201,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),848
+Bus - StL Bus Index,Origin,N/A,27053126201,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),405
+Bus - StL Bus Index,Origin,N/A,27053126201,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),2117
+Bus - StL Bus Index,Origin,N/A,27053126201,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),286
+Bus - StL Bus Index,Origin,N/A,27053126201,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),233
+Bus - StL Bus Index,Origin,N/A,27053126201,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),651
+Bus - StL Bus Index,Origin,N/A,27053126201,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),485
+Bus - StL Bus Index,Origin,N/A,27053126201,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),462
+Bus - StL Bus Index,Origin,N/A,27053126202,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),2240
+Bus - StL Bus Index,Origin,N/A,27053126202,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),131
+Bus - StL Bus Index,Origin,N/A,27053126202,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),280
+Bus - StL Bus Index,Origin,N/A,27053126202,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),660
+Bus - StL Bus Index,Origin,N/A,27053126202,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),672
+Bus - StL Bus Index,Origin,N/A,27053126202,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),497
+Bus - StL Bus Index,Origin,N/A,27053126202,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),2228
+Bus - StL Bus Index,Origin,N/A,27053126202,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),66
+Bus - StL Bus Index,Origin,N/A,27053126202,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),337
+Bus - StL Bus Index,Origin,N/A,27053126202,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),658
+Bus - StL Bus Index,Origin,N/A,27053126202,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),736
+Bus - StL Bus Index,Origin,N/A,27053126202,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),430
+Bus - StL Bus Index,Origin,N/A,27053126202,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),2066
+Bus - StL Bus Index,Origin,N/A,27053126202,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),285
+Bus - StL Bus Index,Origin,N/A,27053126202,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),131
+Bus - StL Bus Index,Origin,N/A,27053126202,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),611
+Bus - StL Bus Index,Origin,N/A,27053126202,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),507
+Bus - StL Bus Index,Origin,N/A,27053126202,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),532
+Bus - StL Bus Index,Destination,N/A,27053001100,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),678
+Bus - StL Bus Index,Destination,N/A,27053001100,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),14
+Bus - StL Bus Index,Destination,N/A,27053001100,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),65
+Bus - StL Bus Index,Destination,N/A,27053001100,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),239
+Bus - StL Bus Index,Destination,N/A,27053001100,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),256
+Bus - StL Bus Index,Destination,N/A,27053001100,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),104
+Bus - StL Bus Index,Destination,N/A,27053001100,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),667
+Bus - StL Bus Index,Destination,N/A,27053001100,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),7
+Bus - StL Bus Index,Destination,N/A,27053001100,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),70
+Bus - StL Bus Index,Destination,N/A,27053001100,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),217
+Bus - StL Bus Index,Destination,N/A,27053001100,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),267
+Bus - StL Bus Index,Destination,N/A,27053001100,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),106
+Bus - StL Bus Index,Destination,N/A,27053001100,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),678
+Bus - StL Bus Index,Destination,N/A,27053001100,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),30
+Bus - StL Bus Index,Destination,N/A,27053001100,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),47
+Bus - StL Bus Index,Destination,N/A,27053001100,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),280
+Bus - StL Bus Index,Destination,N/A,27053001100,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),220
+Bus - StL Bus Index,Destination,N/A,27053001100,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),101
+Bus - StL Bus Index,Destination,N/A,27053001700,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),802
+Bus - StL Bus Index,Destination,N/A,27053001700,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),29
+Bus - StL Bus Index,Destination,N/A,27053001700,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),76
+Bus - StL Bus Index,Destination,N/A,27053001700,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),190
+Bus - StL Bus Index,Destination,N/A,27053001700,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),295
+Bus - StL Bus Index,Destination,N/A,27053001700,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),213
+Bus - StL Bus Index,Destination,N/A,27053001700,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),724
+Bus - StL Bus Index,Destination,N/A,27053001700,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),15
+Bus - StL Bus Index,Destination,N/A,27053001700,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),84
+Bus - StL Bus Index,Destination,N/A,27053001700,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),174
+Bus - StL Bus Index,Destination,N/A,27053001700,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),278
+Bus - StL Bus Index,Destination,N/A,27053001700,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),172
+Bus - StL Bus Index,Destination,N/A,27053001700,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),887
+Bus - StL Bus Index,Destination,N/A,27053001700,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),67
+Bus - StL Bus Index,Destination,N/A,27053001700,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),46
+Bus - StL Bus Index,Destination,N/A,27053001700,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),220
+Bus - StL Bus Index,Destination,N/A,27053001700,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),310
+Bus - StL Bus Index,Destination,N/A,27053001700,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),245
+Bus - StL Bus Index,Destination,N/A,27053002400,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),953
+Bus - StL Bus Index,Destination,N/A,27053002400,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),29
+Bus - StL Bus Index,Destination,N/A,27053002400,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),100
+Bus - StL Bus Index,Destination,N/A,27053002400,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),281
+Bus - StL Bus Index,Destination,N/A,27053002400,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),358
+Bus - StL Bus Index,Destination,N/A,27053002400,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),184
+Bus - StL Bus Index,Destination,N/A,27053002400,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),926
+Bus - StL Bus Index,Destination,N/A,27053002400,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),24
+Bus - StL Bus Index,Destination,N/A,27053002400,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),107
+Bus - StL Bus Index,Destination,N/A,27053002400,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),273
+Bus - StL Bus Index,Destination,N/A,27053002400,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),371
+Bus - StL Bus Index,Destination,N/A,27053002400,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),152
+Bus - StL Bus Index,Destination,N/A,27053002400,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),865
+Bus - StL Bus Index,Destination,N/A,27053002400,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),40
+Bus - StL Bus Index,Destination,N/A,27053002400,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),72
+Bus - StL Bus Index,Destination,N/A,27053002400,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),262
+Bus - StL Bus Index,Destination,N/A,27053002400,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),304
+Bus - StL Bus Index,Destination,N/A,27053002400,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),188
+Bus - StL Bus Index,Destination,N/A,27053003801,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),626
+Bus - StL Bus Index,Destination,N/A,27053003801,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),44
+Bus - StL Bus Index,Destination,N/A,27053003801,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),59
+Bus - StL Bus Index,Destination,N/A,27053003801,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),155
+Bus - StL Bus Index,Destination,N/A,27053003801,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),204
+Bus - StL Bus Index,Destination,N/A,27053003801,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),164
+Bus - StL Bus Index,Destination,N/A,27053003801,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),640
+Bus - StL Bus Index,Destination,N/A,27053003801,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),23
+Bus - StL Bus Index,Destination,N/A,27053003801,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),66
+Bus - StL Bus Index,Destination,N/A,27053003801,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),159
+Bus - StL Bus Index,Destination,N/A,27053003801,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),234
+Bus - StL Bus Index,Destination,N/A,27053003801,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),157
+Bus - StL Bus Index,Destination,N/A,27053003801,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),556
+Bus - StL Bus Index,Destination,N/A,27053003801,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),94
+Bus - StL Bus Index,Destination,N/A,27053003801,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),39
+Bus - StL Bus Index,Destination,N/A,27053003801,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),141
+Bus - StL Bus Index,Destination,N/A,27053003801,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),133
+Bus - StL Bus Index,Destination,N/A,27053003801,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),150
+Bus - StL Bus Index,Destination,N/A,27053003802,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),579
+Bus - StL Bus Index,Destination,N/A,27053003802,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),29
+Bus - StL Bus Index,Destination,N/A,27053003802,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),46
+Bus - StL Bus Index,Destination,N/A,27053003802,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),171
+Bus - StL Bus Index,Destination,N/A,27053003802,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),187
+Bus - StL Bus Index,Destination,N/A,27053003802,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),147
+Bus - StL Bus Index,Destination,N/A,27053003802,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),591
+Bus - StL Bus Index,Destination,N/A,27053003802,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),14
+Bus - StL Bus Index,Destination,N/A,27053003802,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),57
+Bus - StL Bus Index,Destination,N/A,27053003802,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),171
+Bus - StL Bus Index,Destination,N/A,27053003802,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),211
+Bus - StL Bus Index,Destination,N/A,27053003802,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),137
+Bus - StL Bus Index,Destination,N/A,27053003802,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),536
+Bus - StL Bus Index,Destination,N/A,27053003802,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),63
+Bus - StL Bus Index,Destination,N/A,27053003802,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),31
+Bus - StL Bus Index,Destination,N/A,27053003802,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),170
+Bus - StL Bus Index,Destination,N/A,27053003802,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),125
+Bus - StL Bus Index,Destination,N/A,27053003802,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),146
+Bus - StL Bus Index,Destination,N/A,27053005901,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1017
+Bus - StL Bus Index,Destination,N/A,27053005901,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),45
+Bus - StL Bus Index,Destination,N/A,27053005901,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),194
+Bus - StL Bus Index,Destination,N/A,27053005901,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),302
+Bus - StL Bus Index,Destination,N/A,27053005901,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),294
+Bus - StL Bus Index,Destination,N/A,27053005901,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),182
+Bus - StL Bus Index,Destination,N/A,27053005901,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1083
+Bus - StL Bus Index,Destination,N/A,27053005901,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),37
+Bus - StL Bus Index,Destination,N/A,27053005901,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),220
+Bus - StL Bus Index,Destination,N/A,27053005901,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),317
+Bus - StL Bus Index,Destination,N/A,27053005901,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),325
+Bus - StL Bus Index,Destination,N/A,27053005901,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),183
+Bus - StL Bus Index,Destination,N/A,27053005901,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),804
+Bus - StL Bus Index,Destination,N/A,27053005901,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),69
+Bus - StL Bus Index,Destination,N/A,27053005901,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),119
+Bus - StL Bus Index,Destination,N/A,27053005901,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),253
+Bus - StL Bus Index,Destination,N/A,27053005901,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),211
+Bus - StL Bus Index,Destination,N/A,27053005901,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),152
+Bus - StL Bus Index,Destination,N/A,27053005902,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1774
+Bus - StL Bus Index,Destination,N/A,27053005902,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),68
+Bus - StL Bus Index,Destination,N/A,27053005902,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),282
+Bus - StL Bus Index,Destination,N/A,27053005902,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),568
+Bus - StL Bus Index,Destination,N/A,27053005902,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),550
+Bus - StL Bus Index,Destination,N/A,27053005902,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),305
+Bus - StL Bus Index,Destination,N/A,27053005902,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1917
+Bus - StL Bus Index,Destination,N/A,27053005902,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),58
+Bus - StL Bus Index,Destination,N/A,27053005902,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),350
+Bus - StL Bus Index,Destination,N/A,27053005902,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),621
+Bus - StL Bus Index,Destination,N/A,27053005902,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),589
+Bus - StL Bus Index,Destination,N/A,27053005902,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),299
+Bus - StL Bus Index,Destination,N/A,27053005902,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1300
+Bus - StL Bus Index,Destination,N/A,27053005902,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),99
+Bus - StL Bus Index,Destination,N/A,27053005902,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),99
+Bus - StL Bus Index,Destination,N/A,27053005902,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),390
+Bus - StL Bus Index,Destination,N/A,27053005902,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),428
+Bus - StL Bus Index,Destination,N/A,27053005902,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),285
+Bus - StL Bus Index,Destination,N/A,27053006800,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1675
+Bus - StL Bus Index,Destination,N/A,27053006800,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),62
+Bus - StL Bus Index,Destination,N/A,27053006800,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),229
+Bus - StL Bus Index,Destination,N/A,27053006800,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),499
+Bus - StL Bus Index,Destination,N/A,27053006800,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),539
+Bus - StL Bus Index,Destination,N/A,27053006800,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),347
+Bus - StL Bus Index,Destination,N/A,27053006800,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1764
+Bus - StL Bus Index,Destination,N/A,27053006800,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),47
+Bus - StL Bus Index,Destination,N/A,27053006800,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),278
+Bus - StL Bus Index,Destination,N/A,27053006800,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),522
+Bus - StL Bus Index,Destination,N/A,27053006800,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),581
+Bus - StL Bus Index,Destination,N/A,27053006800,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),336
+Bus - StL Bus Index,Destination,N/A,27053006800,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1396
+Bus - StL Bus Index,Destination,N/A,27053006800,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),94
+Bus - StL Bus Index,Destination,N/A,27053006800,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),116
+Bus - StL Bus Index,Destination,N/A,27053006800,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),439
+Bus - StL Bus Index,Destination,N/A,27053006800,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),416
+Bus - StL Bus Index,Destination,N/A,27053006800,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),331
+Bus - StL Bus Index,Destination,N/A,27053007700,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),3683
+Bus - StL Bus Index,Destination,N/A,27053007700,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),204
+Bus - StL Bus Index,Destination,N/A,27053007700,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),411
+Bus - StL Bus Index,Destination,N/A,27053007700,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),1089
+Bus - StL Bus Index,Destination,N/A,27053007700,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),1183
+Bus - StL Bus Index,Destination,N/A,27053007700,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),797
+Bus - StL Bus Index,Destination,N/A,27053007700,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),3511
+Bus - StL Bus Index,Destination,N/A,27053007700,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),128
+Bus - StL Bus Index,Destination,N/A,27053007700,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),446
+Bus - StL Bus Index,Destination,N/A,27053007700,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),1060
+Bus - StL Bus Index,Destination,N/A,27053007700,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),1209
+Bus - StL Bus Index,Destination,N/A,27053007700,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),668
+Bus - StL Bus Index,Destination,N/A,27053007700,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),3665
+Bus - StL Bus Index,Destination,N/A,27053007700,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),386
+Bus - StL Bus Index,Destination,N/A,27053007700,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),268
+Bus - StL Bus Index,Destination,N/A,27053007700,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),1072
+Bus - StL Bus Index,Destination,N/A,27053007700,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),1082
+Bus - StL Bus Index,Destination,N/A,27053007700,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),856
+Bus - StL Bus Index,Destination,N/A,27053007801,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),968
+Bus - StL Bus Index,Destination,N/A,27053007801,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),44
+Bus - StL Bus Index,Destination,N/A,27053007801,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),87
+Bus - StL Bus Index,Destination,N/A,27053007801,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),326
+Bus - StL Bus Index,Destination,N/A,27053007801,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),335
+Bus - StL Bus Index,Destination,N/A,27053007801,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),176
+Bus - StL Bus Index,Destination,N/A,27053007801,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),946
+Bus - StL Bus Index,Destination,N/A,27053007801,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),36
+Bus - StL Bus Index,Destination,N/A,27053007801,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),100
+Bus - StL Bus Index,Destination,N/A,27053007801,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),309
+Bus - StL Bus Index,Destination,N/A,27053007801,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),330
+Bus - StL Bus Index,Destination,N/A,27053007801,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),172
+Bus - StL Bus Index,Destination,N/A,27053007801,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),909
+Bus - StL Bus Index,Destination,N/A,27053007801,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),52
+Bus - StL Bus Index,Destination,N/A,27053007801,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),65
+Bus - StL Bus Index,Destination,N/A,27053007801,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),330
+Bus - StL Bus Index,Destination,N/A,27053007801,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),291
+Bus - StL Bus Index,Destination,N/A,27053007801,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),172
+Bus - StL Bus Index,Destination,N/A,27053008100,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1343
+Bus - StL Bus Index,Destination,N/A,27053008100,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),75
+Bus - StL Bus Index,Destination,N/A,27053008100,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),96
+Bus - StL Bus Index,Destination,N/A,27053008100,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),364
+Bus - StL Bus Index,Destination,N/A,27053008100,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),498
+Bus - StL Bus Index,Destination,N/A,27053008100,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),310
+Bus - StL Bus Index,Destination,N/A,27053008100,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1276
+Bus - StL Bus Index,Destination,N/A,27053008100,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),42
+Bus - StL Bus Index,Destination,N/A,27053008100,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),96
+Bus - StL Bus Index,Destination,N/A,27053008100,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),349
+Bus - StL Bus Index,Destination,N/A,27053008100,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),519
+Bus - StL Bus Index,Destination,N/A,27053008100,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),269
+Bus - StL Bus Index,Destination,N/A,27053008100,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1357
+Bus - StL Bus Index,Destination,N/A,27053008100,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),152
+Bus - StL Bus Index,Destination,N/A,27053008100,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),68
+Bus - StL Bus Index,Destination,N/A,27053008100,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),371
+Bus - StL Bus Index,Destination,N/A,27053008100,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),443
+Bus - StL Bus Index,Destination,N/A,27053008100,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),322
+Bus - StL Bus Index,Destination,N/A,27053008200,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1626
+Bus - StL Bus Index,Destination,N/A,27053008200,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),82
+Bus - StL Bus Index,Destination,N/A,27053008200,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),162
+Bus - StL Bus Index,Destination,N/A,27053008200,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),530
+Bus - StL Bus Index,Destination,N/A,27053008200,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),563
+Bus - StL Bus Index,Destination,N/A,27053008200,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),289
+Bus - StL Bus Index,Destination,N/A,27053008200,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1610
+Bus - StL Bus Index,Destination,N/A,27053008200,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),58
+Bus - StL Bus Index,Destination,N/A,27053008200,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),171
+Bus - StL Bus Index,Destination,N/A,27053008200,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),509
+Bus - StL Bus Index,Destination,N/A,27053008200,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),607
+Bus - StL Bus Index,Destination,N/A,27053008200,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),266
+Bus - StL Bus Index,Destination,N/A,27053008200,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1469
+Bus - StL Bus Index,Destination,N/A,27053008200,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),129
+Bus - StL Bus Index,Destination,N/A,27053008200,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),93
+Bus - StL Bus Index,Destination,N/A,27053008200,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),539
+Bus - StL Bus Index,Destination,N/A,27053008200,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),411
+Bus - StL Bus Index,Destination,N/A,27053008200,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),297
+Bus - StL Bus Index,Destination,N/A,27053008300,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1647
+Bus - StL Bus Index,Destination,N/A,27053008300,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),68
+Bus - StL Bus Index,Destination,N/A,27053008300,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),172
+Bus - StL Bus Index,Destination,N/A,27053008300,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),549
+Bus - StL Bus Index,Destination,N/A,27053008300,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),571
+Bus - StL Bus Index,Destination,N/A,27053008300,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),286
+Bus - StL Bus Index,Destination,N/A,27053008300,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1616
+Bus - StL Bus Index,Destination,N/A,27053008300,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),53
+Bus - StL Bus Index,Destination,N/A,27053008300,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),188
+Bus - StL Bus Index,Destination,N/A,27053008300,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),532
+Bus - StL Bus Index,Destination,N/A,27053008300,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),589
+Bus - StL Bus Index,Destination,N/A,27053008300,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),255
+Bus - StL Bus Index,Destination,N/A,27053008300,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1552
+Bus - StL Bus Index,Destination,N/A,27053008300,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),97
+Bus - StL Bus Index,Destination,N/A,27053008300,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),125
+Bus - StL Bus Index,Destination,N/A,27053008300,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),569
+Bus - StL Bus Index,Destination,N/A,27053008300,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),485
+Bus - StL Bus Index,Destination,N/A,27053008300,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),275
+Bus - StL Bus Index,Destination,N/A,27053008400,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1139
+Bus - StL Bus Index,Destination,N/A,27053008400,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),45
+Bus - StL Bus Index,Destination,N/A,27053008400,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),128
+Bus - StL Bus Index,Destination,N/A,27053008400,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),358
+Bus - StL Bus Index,Destination,N/A,27053008400,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),394
+Bus - StL Bus Index,Destination,N/A,27053008400,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),213
+Bus - StL Bus Index,Destination,N/A,27053008400,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1135
+Bus - StL Bus Index,Destination,N/A,27053008400,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),30
+Bus - StL Bus Index,Destination,N/A,27053008400,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),137
+Bus - StL Bus Index,Destination,N/A,27053008400,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),364
+Bus - StL Bus Index,Destination,N/A,27053008400,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),403
+Bus - StL Bus Index,Destination,N/A,27053008400,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),201
+Bus - StL Bus Index,Destination,N/A,27053008400,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1091
+Bus - StL Bus Index,Destination,N/A,27053008400,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),83
+Bus - StL Bus Index,Destination,N/A,27053008400,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),95
+Bus - StL Bus Index,Destination,N/A,27053008400,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),333
+Bus - StL Bus Index,Destination,N/A,27053008400,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),357
+Bus - StL Bus Index,Destination,N/A,27053008400,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),223
+Bus - StL Bus Index,Destination,N/A,27053101200,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),652
+Bus - StL Bus Index,Destination,N/A,27053101200,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),18
+Bus - StL Bus Index,Destination,N/A,27053101200,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),68
+Bus - StL Bus Index,Destination,N/A,27053101200,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),193
+Bus - StL Bus Index,Destination,N/A,27053101200,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),249
+Bus - StL Bus Index,Destination,N/A,27053101200,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),123
+Bus - StL Bus Index,Destination,N/A,27053101200,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),638
+Bus - StL Bus Index,Destination,N/A,27053101200,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),12
+Bus - StL Bus Index,Destination,N/A,27053101200,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),79
+Bus - StL Bus Index,Destination,N/A,27053101200,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),175
+Bus - StL Bus Index,Destination,N/A,27053101200,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),262
+Bus - StL Bus Index,Destination,N/A,27053101200,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),110
+Bus - StL Bus Index,Destination,N/A,27053101200,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),584
+Bus - StL Bus Index,Destination,N/A,27053101200,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),36
+Bus - StL Bus Index,Destination,N/A,27053101200,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),38
+Bus - StL Bus Index,Destination,N/A,27053101200,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),217
+Bus - StL Bus Index,Destination,N/A,27053101200,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),179
+Bus - StL Bus Index,Destination,N/A,27053101200,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),113
+Bus - StL Bus Index,Destination,N/A,27053101800,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1444
+Bus - StL Bus Index,Destination,N/A,27053101800,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),54
+Bus - StL Bus Index,Destination,N/A,27053101800,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),156
+Bus - StL Bus Index,Destination,N/A,27053101800,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),433
+Bus - StL Bus Index,Destination,N/A,27053101800,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),501
+Bus - StL Bus Index,Destination,N/A,27053101800,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),299
+Bus - StL Bus Index,Destination,N/A,27053101800,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1485
+Bus - StL Bus Index,Destination,N/A,27053101800,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),36
+Bus - StL Bus Index,Destination,N/A,27053101800,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),191
+Bus - StL Bus Index,Destination,N/A,27053101800,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),430
+Bus - StL Bus Index,Destination,N/A,27053101800,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),545
+Bus - StL Bus Index,Destination,N/A,27053101800,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),284
+Bus - StL Bus Index,Destination,N/A,27053101800,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1199
+Bus - StL Bus Index,Destination,N/A,27053101800,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),90
+Bus - StL Bus Index,Destination,N/A,27053101800,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),74
+Bus - StL Bus Index,Destination,N/A,27053101800,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),399
+Bus - StL Bus Index,Destination,N/A,27053101800,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),349
+Bus - StL Bus Index,Destination,N/A,27053101800,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),288
+Bus - StL Bus Index,Destination,N/A,27053101900,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),810
+Bus - StL Bus Index,Destination,N/A,27053101900,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),31
+Bus - StL Bus Index,Destination,N/A,27053101900,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),75
+Bus - StL Bus Index,Destination,N/A,27053101900,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),238
+Bus - StL Bus Index,Destination,N/A,27053101900,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),314
+Bus - StL Bus Index,Destination,N/A,27053101900,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),152
+Bus - StL Bus Index,Destination,N/A,27053101900,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),787
+Bus - StL Bus Index,Destination,N/A,27053101900,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),18
+Bus - StL Bus Index,Destination,N/A,27053101900,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),79
+Bus - StL Bus Index,Destination,N/A,27053101900,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),217
+Bus - StL Bus Index,Destination,N/A,27053101900,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),336
+Bus - StL Bus Index,Destination,N/A,27053101900,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),137
+Bus - StL Bus Index,Destination,N/A,27053101900,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),778
+Bus - StL Bus Index,Destination,N/A,27053101900,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),56
+Bus - StL Bus Index,Destination,N/A,27053101900,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),73
+Bus - StL Bus Index,Destination,N/A,27053101900,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),262
+Bus - StL Bus Index,Destination,N/A,27053101900,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),220
+Bus - StL Bus Index,Destination,N/A,27053101900,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),167
+Bus - StL Bus Index,Destination,N/A,27053102500,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),911
+Bus - StL Bus Index,Destination,N/A,27053102500,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),34
+Bus - StL Bus Index,Destination,N/A,27053102500,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),154
+Bus - StL Bus Index,Destination,N/A,27053102500,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),287
+Bus - StL Bus Index,Destination,N/A,27053102500,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),299
+Bus - StL Bus Index,Destination,N/A,27053102500,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),137
+Bus - StL Bus Index,Destination,N/A,27053102500,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),951
+Bus - StL Bus Index,Destination,N/A,27053102500,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),28
+Bus - StL Bus Index,Destination,N/A,27053102500,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),180
+Bus - StL Bus Index,Destination,N/A,27053102500,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),291
+Bus - StL Bus Index,Destination,N/A,27053102500,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),329
+Bus - StL Bus Index,Destination,N/A,27053102500,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),125
+Bus - StL Bus Index,Destination,N/A,27053102500,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),748
+Bus - StL Bus Index,Destination,N/A,27053102500,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),56
+Bus - StL Bus Index,Destination,N/A,27053102500,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),87
+Bus - StL Bus Index,Destination,N/A,27053102500,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),272
+Bus - StL Bus Index,Destination,N/A,27053102500,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),219
+Bus - StL Bus Index,Destination,N/A,27053102500,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),114
+Bus - StL Bus Index,Destination,N/A,27053102600,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1552
+Bus - StL Bus Index,Destination,N/A,27053102600,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),44
+Bus - StL Bus Index,Destination,N/A,27053102600,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),203
+Bus - StL Bus Index,Destination,N/A,27053102600,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),538
+Bus - StL Bus Index,Destination,N/A,27053102600,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),515
+Bus - StL Bus Index,Destination,N/A,27053102600,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),252
+Bus - StL Bus Index,Destination,N/A,27053102600,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1546
+Bus - StL Bus Index,Destination,N/A,27053102600,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),32
+Bus - StL Bus Index,Destination,N/A,27053102600,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),227
+Bus - StL Bus Index,Destination,N/A,27053102600,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),507
+Bus - StL Bus Index,Destination,N/A,27053102600,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),546
+Bus - StL Bus Index,Destination,N/A,27053102600,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),235
+Bus - StL Bus Index,Destination,N/A,27053102600,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1465
+Bus - StL Bus Index,Destination,N/A,27053102600,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),78
+Bus - StL Bus Index,Destination,N/A,27053102600,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),132
+Bus - StL Bus Index,Destination,N/A,27053102600,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),567
+Bus - StL Bus Index,Destination,N/A,27053102600,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),448
+Bus - StL Bus Index,Destination,N/A,27053102600,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),239
+Bus - StL Bus Index,Destination,N/A,27053103000,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),648
+Bus - StL Bus Index,Destination,N/A,27053103000,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),39
+Bus - StL Bus Index,Destination,N/A,27053103000,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),68
+Bus - StL Bus Index,Destination,N/A,27053103000,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),192
+Bus - StL Bus Index,Destination,N/A,27053103000,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),224
+Bus - StL Bus Index,Destination,N/A,27053103000,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),125
+Bus - StL Bus Index,Destination,N/A,27053103000,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),636
+Bus - StL Bus Index,Destination,N/A,27053103000,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),26
+Bus - StL Bus Index,Destination,N/A,27053103000,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),78
+Bus - StL Bus Index,Destination,N/A,27053103000,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),184
+Bus - StL Bus Index,Destination,N/A,27053103000,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),233
+Bus - StL Bus Index,Destination,N/A,27053103000,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),114
+Bus - StL Bus Index,Destination,N/A,27053103000,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),620
+Bus - StL Bus Index,Destination,N/A,27053103000,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),66
+Bus - StL Bus Index,Destination,N/A,27053103000,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),54
+Bus - StL Bus Index,Destination,N/A,27053103000,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),202
+Bus - StL Bus Index,Destination,N/A,27053103000,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),186
+Bus - StL Bus Index,Destination,N/A,27053103000,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),112
+Bus - StL Bus Index,Destination,N/A,27053103100,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),690
+Bus - StL Bus Index,Destination,N/A,27053103100,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),37
+Bus - StL Bus Index,Destination,N/A,27053103100,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),63
+Bus - StL Bus Index,Destination,N/A,27053103100,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),195
+Bus - StL Bus Index,Destination,N/A,27053103100,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),234
+Bus - StL Bus Index,Destination,N/A,27053103100,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),161
+Bus - StL Bus Index,Destination,N/A,27053103100,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),668
+Bus - StL Bus Index,Destination,N/A,27053103100,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),24
+Bus - StL Bus Index,Destination,N/A,27053103100,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),65
+Bus - StL Bus Index,Destination,N/A,27053103100,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),182
+Bus - StL Bus Index,Destination,N/A,27053103100,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),255
+Bus - StL Bus Index,Destination,N/A,27053103100,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),141
+Bus - StL Bus Index,Destination,N/A,27053103100,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),673
+Bus - StL Bus Index,Destination,N/A,27053103100,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),72
+Bus - StL Bus Index,Destination,N/A,27053103100,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),45
+Bus - StL Bus Index,Destination,N/A,27053103100,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),219
+Bus - StL Bus Index,Destination,N/A,27053103100,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),174
+Bus - StL Bus Index,Destination,N/A,27053103100,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),163
+Bus - StL Bus Index,Destination,N/A,27053103600,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),2393
+Bus - StL Bus Index,Destination,N/A,27053103600,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),82
+Bus - StL Bus Index,Destination,N/A,27053103600,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),360
+Bus - StL Bus Index,Destination,N/A,27053103600,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),740
+Bus - StL Bus Index,Destination,N/A,27053103600,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),741
+Bus - StL Bus Index,Destination,N/A,27053103600,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),471
+Bus - StL Bus Index,Destination,N/A,27053103600,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),2316
+Bus - StL Bus Index,Destination,N/A,27053103600,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),47
+Bus - StL Bus Index,Destination,N/A,27053103600,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),426
+Bus - StL Bus Index,Destination,N/A,27053103600,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),726
+Bus - StL Bus Index,Destination,N/A,27053103600,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),729
+Bus - StL Bus Index,Destination,N/A,27053103600,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),388
+Bus - StL Bus Index,Destination,N/A,27053103600,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),2304
+Bus - StL Bus Index,Destination,N/A,27053103600,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),173
+Bus - StL Bus Index,Destination,N/A,27053103600,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),181
+Bus - StL Bus Index,Destination,N/A,27053103600,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),738
+Bus - StL Bus Index,Destination,N/A,27053103600,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),694
+Bus - StL Bus Index,Destination,N/A,27053103600,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),518
+Bus - StL Bus Index,Destination,N/A,27053103700,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),2215
+Bus - StL Bus Index,Destination,N/A,27053103700,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),118
+Bus - StL Bus Index,Destination,N/A,27053103700,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),290
+Bus - StL Bus Index,Destination,N/A,27053103700,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),622
+Bus - StL Bus Index,Destination,N/A,27053103700,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),716
+Bus - StL Bus Index,Destination,N/A,27053103700,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),468
+Bus - StL Bus Index,Destination,N/A,27053103700,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),2276
+Bus - StL Bus Index,Destination,N/A,27053103700,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),90
+Bus - StL Bus Index,Destination,N/A,27053103700,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),348
+Bus - StL Bus Index,Destination,N/A,27053103700,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),644
+Bus - StL Bus Index,Destination,N/A,27053103700,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),778
+Bus - StL Bus Index,Destination,N/A,27053103700,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),416
+Bus - StL Bus Index,Destination,N/A,27053103700,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1843
+Bus - StL Bus Index,Destination,N/A,27053103700,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),185
+Bus - StL Bus Index,Destination,N/A,27053103700,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),132
+Bus - StL Bus Index,Destination,N/A,27053103700,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),535
+Bus - StL Bus Index,Destination,N/A,27053103700,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),537
+Bus - StL Bus Index,Destination,N/A,27053103700,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),454
+Bus - StL Bus Index,Destination,N/A,27053103900,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1314
+Bus - StL Bus Index,Destination,N/A,27053103900,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),73
+Bus - StL Bus Index,Destination,N/A,27053103900,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),137
+Bus - StL Bus Index,Destination,N/A,27053103900,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),381
+Bus - StL Bus Index,Destination,N/A,27053103900,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),409
+Bus - StL Bus Index,Destination,N/A,27053103900,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),314
+Bus - StL Bus Index,Destination,N/A,27053103900,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1232
+Bus - StL Bus Index,Destination,N/A,27053103900,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),37
+Bus - StL Bus Index,Destination,N/A,27053103900,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),168
+Bus - StL Bus Index,Destination,N/A,27053103900,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),364
+Bus - StL Bus Index,Destination,N/A,27053103900,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),400
+Bus - StL Bus Index,Destination,N/A,27053103900,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),263
+Bus - StL Bus Index,Destination,N/A,27053103900,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1328
+Bus - StL Bus Index,Destination,N/A,27053103900,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),152
+Bus - StL Bus Index,Destination,N/A,27053103900,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),73
+Bus - StL Bus Index,Destination,N/A,27053103900,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),383
+Bus - StL Bus Index,Destination,N/A,27053103900,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),386
+Bus - StL Bus Index,Destination,N/A,27053103900,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),334
+Bus - StL Bus Index,Destination,N/A,27053104001,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),945
+Bus - StL Bus Index,Destination,N/A,27053104001,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),28
+Bus - StL Bus Index,Destination,N/A,27053104001,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),167
+Bus - StL Bus Index,Destination,N/A,27053104001,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),303
+Bus - StL Bus Index,Destination,N/A,27053104001,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),268
+Bus - StL Bus Index,Destination,N/A,27053104001,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),180
+Bus - StL Bus Index,Destination,N/A,27053104001,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1078
+Bus - StL Bus Index,Destination,N/A,27053104001,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),16
+Bus - StL Bus Index,Destination,N/A,27053104001,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),216
+Bus - StL Bus Index,Destination,N/A,27053104001,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),339
+Bus - StL Bus Index,Destination,N/A,27053104001,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),320
+Bus - StL Bus Index,Destination,N/A,27053104001,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),187
+Bus - StL Bus Index,Destination,N/A,27053104001,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),567
+Bus - StL Bus Index,Destination,N/A,27053104001,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),54
+Bus - StL Bus Index,Destination,N/A,27053104001,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),47
+Bus - StL Bus Index,Destination,N/A,27053104001,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),184
+Bus - StL Bus Index,Destination,N/A,27053104001,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),149
+Bus - StL Bus Index,Destination,N/A,27053104001,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),133
+Bus - StL Bus Index,Destination,N/A,27053104002,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),2066
+Bus - StL Bus Index,Destination,N/A,27053104002,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),86
+Bus - StL Bus Index,Destination,N/A,27053104002,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),507
+Bus - StL Bus Index,Destination,N/A,27053104002,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),660
+Bus - StL Bus Index,Destination,N/A,27053104002,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),527
+Bus - StL Bus Index,Destination,N/A,27053104002,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),285
+Bus - StL Bus Index,Destination,N/A,27053104002,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),2384
+Bus - StL Bus Index,Destination,N/A,27053104002,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),65
+Bus - StL Bus Index,Destination,N/A,27053104002,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),685
+Bus - StL Bus Index,Destination,N/A,27053104002,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),763
+Bus - StL Bus Index,Destination,N/A,27053104002,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),606
+Bus - StL Bus Index,Destination,N/A,27053104002,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),264
+Bus - StL Bus Index,Destination,N/A,27053104002,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1172
+Bus - StL Bus Index,Destination,N/A,27053104002,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),124
+Bus - StL Bus Index,Destination,N/A,27053104002,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),85
+Bus - StL Bus Index,Destination,N/A,27053104002,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),371
+Bus - StL Bus Index,Destination,N/A,27053104002,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),324
+Bus - StL Bus Index,Destination,N/A,27053104002,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),267
+Bus - StL Bus Index,Destination,N/A,27053104400,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),10145
+Bus - StL Bus Index,Destination,N/A,27053104400,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),480
+Bus - StL Bus Index,Destination,N/A,27053104400,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),3171
+Bus - StL Bus Index,Destination,N/A,27053104400,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),2547
+Bus - StL Bus Index,Destination,N/A,27053104400,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),2457
+Bus - StL Bus Index,Destination,N/A,27053104400,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),1490
+Bus - StL Bus Index,Destination,N/A,27053104400,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),10977
+Bus - StL Bus Index,Destination,N/A,27053104400,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),401
+Bus - StL Bus Index,Destination,N/A,27053104400,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),4188
+Bus - StL Bus Index,Destination,N/A,27053104400,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),2673
+Bus - StL Bus Index,Destination,N/A,27053104400,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),2547
+Bus - StL Bus Index,Destination,N/A,27053104400,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),1167
+Bus - StL Bus Index,Destination,N/A,27053104400,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),7292
+Bus - StL Bus Index,Destination,N/A,27053104400,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),665
+Bus - StL Bus Index,Destination,N/A,27053104400,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),751
+Bus - StL Bus Index,Destination,N/A,27053104400,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),2087
+Bus - StL Bus Index,Destination,N/A,27053104400,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),1968
+Bus - StL Bus Index,Destination,N/A,27053104400,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),1820
+Bus - StL Bus Index,Destination,N/A,27053104801,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),531
+Bus - StL Bus Index,Destination,N/A,27053104801,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),25
+Bus - StL Bus Index,Destination,N/A,27053104801,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),63
+Bus - StL Bus Index,Destination,N/A,27053104801,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),157
+Bus - StL Bus Index,Destination,N/A,27053104801,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),178
+Bus - StL Bus Index,Destination,N/A,27053104801,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),108
+Bus - StL Bus Index,Destination,N/A,27053104801,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),521
+Bus - StL Bus Index,Destination,N/A,27053104801,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),19
+Bus - StL Bus Index,Destination,N/A,27053104801,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),74
+Bus - StL Bus Index,Destination,N/A,27053104801,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),158
+Bus - StL Bus Index,Destination,N/A,27053104801,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),181
+Bus - StL Bus Index,Destination,N/A,27053104801,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),89
+Bus - StL Bus Index,Destination,N/A,27053104801,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),474
+Bus - StL Bus Index,Destination,N/A,27053104801,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),43
+Bus - StL Bus Index,Destination,N/A,27053104801,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),28
+Bus - StL Bus Index,Destination,N/A,27053104801,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),121
+Bus - StL Bus Index,Destination,N/A,27053104801,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),150
+Bus - StL Bus Index,Destination,N/A,27053104801,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),132
+Bus - StL Bus Index,Destination,N/A,27053104802,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),2652
+Bus - StL Bus Index,Destination,N/A,27053104802,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),77
+Bus - StL Bus Index,Destination,N/A,27053104802,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),575
+Bus - StL Bus Index,Destination,N/A,27053104802,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),893
+Bus - StL Bus Index,Destination,N/A,27053104802,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),713
+Bus - StL Bus Index,Destination,N/A,27053104802,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),394
+Bus - StL Bus Index,Destination,N/A,27053104802,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),3026
+Bus - StL Bus Index,Destination,N/A,27053104802,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),62
+Bus - StL Bus Index,Destination,N/A,27053104802,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),756
+Bus - StL Bus Index,Destination,N/A,27053104802,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),1038
+Bus - StL Bus Index,Destination,N/A,27053104802,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),808
+Bus - StL Bus Index,Destination,N/A,27053104802,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),362
+Bus - StL Bus Index,Destination,N/A,27053104802,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1714
+Bus - StL Bus Index,Destination,N/A,27053104802,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),120
+Bus - StL Bus Index,Destination,N/A,27053104802,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),159
+Bus - StL Bus Index,Destination,N/A,27053104802,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),547
+Bus - StL Bus Index,Destination,N/A,27053104802,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),489
+Bus - StL Bus Index,Destination,N/A,27053104802,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),399
+Bus - StL Bus Index,Destination,N/A,27053104901,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),3219
+Bus - StL Bus Index,Destination,N/A,27053104901,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),83
+Bus - StL Bus Index,Destination,N/A,27053104901,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),833
+Bus - StL Bus Index,Destination,N/A,27053104901,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),1171
+Bus - StL Bus Index,Destination,N/A,27053104901,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),762
+Bus - StL Bus Index,Destination,N/A,27053104901,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),370
+Bus - StL Bus Index,Destination,N/A,27053104901,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),3712
+Bus - StL Bus Index,Destination,N/A,27053104901,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),64
+Bus - StL Bus Index,Destination,N/A,27053104901,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),1123
+Bus - StL Bus Index,Destination,N/A,27053104901,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),1333
+Bus - StL Bus Index,Destination,N/A,27053104901,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),856
+Bus - StL Bus Index,Destination,N/A,27053104901,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),335
+Bus - StL Bus Index,Destination,N/A,27053104901,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1897
+Bus - StL Bus Index,Destination,N/A,27053104901,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),124
+Bus - StL Bus Index,Destination,N/A,27053104901,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),178
+Bus - StL Bus Index,Destination,N/A,27053104901,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),684
+Bus - StL Bus Index,Destination,N/A,27053104901,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),557
+Bus - StL Bus Index,Destination,N/A,27053104901,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),354
+Bus - StL Bus Index,Destination,N/A,27053104902,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1227
+Bus - StL Bus Index,Destination,N/A,27053104902,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),60
+Bus - StL Bus Index,Destination,N/A,27053104902,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),185
+Bus - StL Bus Index,Destination,N/A,27053104902,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),382
+Bus - StL Bus Index,Destination,N/A,27053104902,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),371
+Bus - StL Bus Index,Destination,N/A,27053104902,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),229
+Bus - StL Bus Index,Destination,N/A,27053104902,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1301
+Bus - StL Bus Index,Destination,N/A,27053104902,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),55
+Bus - StL Bus Index,Destination,N/A,27053104902,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),244
+Bus - StL Bus Index,Destination,N/A,27053104902,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),412
+Bus - StL Bus Index,Destination,N/A,27053104902,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),381
+Bus - StL Bus Index,Destination,N/A,27053104902,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),210
+Bus - StL Bus Index,Destination,N/A,27053104902,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),979
+Bus - StL Bus Index,Destination,N/A,27053104902,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),61
+Bus - StL Bus Index,Destination,N/A,27053104902,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),46
+Bus - StL Bus Index,Destination,N/A,27053104902,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),304
+Bus - StL Bus Index,Destination,N/A,27053104902,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),329
+Bus - StL Bus Index,Destination,N/A,27053104902,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),239
+Bus - StL Bus Index,Destination,N/A,27053105201,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1531
+Bus - StL Bus Index,Destination,N/A,27053105201,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),53
+Bus - StL Bus Index,Destination,N/A,27053105201,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),353
+Bus - StL Bus Index,Destination,N/A,27053105201,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),485
+Bus - StL Bus Index,Destination,N/A,27053105201,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),427
+Bus - StL Bus Index,Destination,N/A,27053105201,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),214
+Bus - StL Bus Index,Destination,N/A,27053105201,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1713
+Bus - StL Bus Index,Destination,N/A,27053105201,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),33
+Bus - StL Bus Index,Destination,N/A,27053105201,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),458
+Bus - StL Bus Index,Destination,N/A,27053105201,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),571
+Bus - StL Bus Index,Destination,N/A,27053105201,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),458
+Bus - StL Bus Index,Destination,N/A,27053105201,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),193
+Bus - StL Bus Index,Destination,N/A,27053105201,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1087
+Bus - StL Bus Index,Destination,N/A,27053105201,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),96
+Bus - StL Bus Index,Destination,N/A,27053105201,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),120
+Bus - StL Bus Index,Destination,N/A,27053105201,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),332
+Bus - StL Bus Index,Destination,N/A,27053105201,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),328
+Bus - StL Bus Index,Destination,N/A,27053105201,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),211
+Bus - StL Bus Index,Destination,N/A,27053105204,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),2576
+Bus - StL Bus Index,Destination,N/A,27053105204,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),148
+Bus - StL Bus Index,Destination,N/A,27053105204,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),423
+Bus - StL Bus Index,Destination,N/A,27053105204,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),773
+Bus - StL Bus Index,Destination,N/A,27053105204,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),700
+Bus - StL Bus Index,Destination,N/A,27053105204,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),532
+Bus - StL Bus Index,Destination,N/A,27053105204,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),2563
+Bus - StL Bus Index,Destination,N/A,27053105204,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),109
+Bus - StL Bus Index,Destination,N/A,27053105204,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),466
+Bus - StL Bus Index,Destination,N/A,27053105204,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),748
+Bus - StL Bus Index,Destination,N/A,27053105204,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),729
+Bus - StL Bus Index,Destination,N/A,27053105204,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),511
+Bus - StL Bus Index,Destination,N/A,27053105204,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),2389
+Bus - StL Bus Index,Destination,N/A,27053105204,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),258
+Bus - StL Bus Index,Destination,N/A,27053105204,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),311
+Bus - StL Bus Index,Destination,N/A,27053105204,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),757
+Bus - StL Bus Index,Destination,N/A,27053105204,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),560
+Bus - StL Bus Index,Destination,N/A,27053105204,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),504
+Bus - StL Bus Index,Destination,N/A,27053105400,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),3699
+Bus - StL Bus Index,Destination,N/A,27053105400,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),183
+Bus - StL Bus Index,Destination,N/A,27053105400,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),880
+Bus - StL Bus Index,Destination,N/A,27053105400,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),1143
+Bus - StL Bus Index,Destination,N/A,27053105400,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),928
+Bus - StL Bus Index,Destination,N/A,27053105400,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),566
+Bus - StL Bus Index,Destination,N/A,27053105400,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),4054
+Bus - StL Bus Index,Destination,N/A,27053105400,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),151
+Bus - StL Bus Index,Destination,N/A,27053105400,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),1123
+Bus - StL Bus Index,Destination,N/A,27053105400,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),1282
+Bus - StL Bus Index,Destination,N/A,27053105400,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),981
+Bus - StL Bus Index,Destination,N/A,27053105400,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),517
+Bus - StL Bus Index,Destination,N/A,27053105400,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),2418
+Bus - StL Bus Index,Destination,N/A,27053105400,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),254
+Bus - StL Bus Index,Destination,N/A,27053105400,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),265
+Bus - StL Bus Index,Destination,N/A,27053105400,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),726
+Bus - StL Bus Index,Destination,N/A,27053105400,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),646
+Bus - StL Bus Index,Destination,N/A,27053105400,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),528
+Bus - StL Bus Index,Destination,N/A,27053105500,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),915
+Bus - StL Bus Index,Destination,N/A,27053105500,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),39
+Bus - StL Bus Index,Destination,N/A,27053105500,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),160
+Bus - StL Bus Index,Destination,N/A,27053105500,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),246
+Bus - StL Bus Index,Destination,N/A,27053105500,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),310
+Bus - StL Bus Index,Destination,N/A,27053105500,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),160
+Bus - StL Bus Index,Destination,N/A,27053105500,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),950
+Bus - StL Bus Index,Destination,N/A,27053105500,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),38
+Bus - StL Bus Index,Destination,N/A,27053105500,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),202
+Bus - StL Bus Index,Destination,N/A,27053105500,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),240
+Bus - StL Bus Index,Destination,N/A,27053105500,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),333
+Bus - StL Bus Index,Destination,N/A,27053105500,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),137
+Bus - StL Bus Index,Destination,N/A,27053105500,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),784
+Bus - StL Bus Index,Destination,N/A,27053105500,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),54
+Bus - StL Bus Index,Destination,N/A,27053105500,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),54
+Bus - StL Bus Index,Destination,N/A,27053105500,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),254
+Bus - StL Bus Index,Destination,N/A,27053105500,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),253
+Bus - StL Bus Index,Destination,N/A,27053105500,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),170
+Bus - StL Bus Index,Destination,N/A,27053105600,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1402
+Bus - StL Bus Index,Destination,N/A,27053105600,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),74
+Bus - StL Bus Index,Destination,N/A,27053105600,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),158
+Bus - StL Bus Index,Destination,N/A,27053105600,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),416
+Bus - StL Bus Index,Destination,N/A,27053105600,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),465
+Bus - StL Bus Index,Destination,N/A,27053105600,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),288
+Bus - StL Bus Index,Destination,N/A,27053105600,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1427
+Bus - StL Bus Index,Destination,N/A,27053105600,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),50
+Bus - StL Bus Index,Destination,N/A,27053105600,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),184
+Bus - StL Bus Index,Destination,N/A,27053105600,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),424
+Bus - StL Bus Index,Destination,N/A,27053105600,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),499
+Bus - StL Bus Index,Destination,N/A,27053105600,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),271
+Bus - StL Bus Index,Destination,N/A,27053105600,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1201
+Bus - StL Bus Index,Destination,N/A,27053105600,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),122
+Bus - StL Bus Index,Destination,N/A,27053105600,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),92
+Bus - StL Bus Index,Destination,N/A,27053105600,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),371
+Bus - StL Bus Index,Destination,N/A,27053105600,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),340
+Bus - StL Bus Index,Destination,N/A,27053105600,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),276
+Bus - StL Bus Index,Destination,N/A,27053105700,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),981
+Bus - StL Bus Index,Destination,N/A,27053105700,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),39
+Bus - StL Bus Index,Destination,N/A,27053105700,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),103
+Bus - StL Bus Index,Destination,N/A,27053105700,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),301
+Bus - StL Bus Index,Destination,N/A,27053105700,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),335
+Bus - StL Bus Index,Destination,N/A,27053105700,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),203
+Bus - StL Bus Index,Destination,N/A,27053105700,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1020
+Bus - StL Bus Index,Destination,N/A,27053105700,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),25
+Bus - StL Bus Index,Destination,N/A,27053105700,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),123
+Bus - StL Bus Index,Destination,N/A,27053105700,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),323
+Bus - StL Bus Index,Destination,N/A,27053105700,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),360
+Bus - StL Bus Index,Destination,N/A,27053105700,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),189
+Bus - StL Bus Index,Destination,N/A,27053105700,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),836
+Bus - StL Bus Index,Destination,N/A,27053105700,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),76
+Bus - StL Bus Index,Destination,N/A,27053105700,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),56
+Bus - StL Bus Index,Destination,N/A,27053105700,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),250
+Bus - StL Bus Index,Destination,N/A,27053105700,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),257
+Bus - StL Bus Index,Destination,N/A,27053105700,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),197
+Bus - StL Bus Index,Destination,N/A,27053106000,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1286
+Bus - StL Bus Index,Destination,N/A,27053106000,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),38
+Bus - StL Bus Index,Destination,N/A,27053106000,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),178
+Bus - StL Bus Index,Destination,N/A,27053106000,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),474
+Bus - StL Bus Index,Destination,N/A,27053106000,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),419
+Bus - StL Bus Index,Destination,N/A,27053106000,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),176
+Bus - StL Bus Index,Destination,N/A,27053106000,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1397
+Bus - StL Bus Index,Destination,N/A,27053106000,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),28
+Bus - StL Bus Index,Destination,N/A,27053106000,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),218
+Bus - StL Bus Index,Destination,N/A,27053106000,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),525
+Bus - StL Bus Index,Destination,N/A,27053106000,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),454
+Bus - StL Bus Index,Destination,N/A,27053106000,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),171
+Bus - StL Bus Index,Destination,N/A,27053106000,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),931
+Bus - StL Bus Index,Destination,N/A,27053106000,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),65
+Bus - StL Bus Index,Destination,N/A,27053106000,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),81
+Bus - StL Bus Index,Destination,N/A,27053106000,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),326
+Bus - StL Bus Index,Destination,N/A,27053106000,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),296
+Bus - StL Bus Index,Destination,N/A,27053106000,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),164
+Bus - StL Bus Index,Destination,N/A,27053106200,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1436
+Bus - StL Bus Index,Destination,N/A,27053106200,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),43
+Bus - StL Bus Index,Destination,N/A,27053106200,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),203
+Bus - StL Bus Index,Destination,N/A,27053106200,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),488
+Bus - StL Bus Index,Destination,N/A,27053106200,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),473
+Bus - StL Bus Index,Destination,N/A,27053106200,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),229
+Bus - StL Bus Index,Destination,N/A,27053106200,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1460
+Bus - StL Bus Index,Destination,N/A,27053106200,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),33
+Bus - StL Bus Index,Destination,N/A,27053106200,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),230
+Bus - StL Bus Index,Destination,N/A,27053106200,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),506
+Bus - StL Bus Index,Destination,N/A,27053106200,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),492
+Bus - StL Bus Index,Destination,N/A,27053106200,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),200
+Bus - StL Bus Index,Destination,N/A,27053106200,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1212
+Bus - StL Bus Index,Destination,N/A,27053106200,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),67
+Bus - StL Bus Index,Destination,N/A,27053106200,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),110
+Bus - StL Bus Index,Destination,N/A,27053106200,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),408
+Bus - StL Bus Index,Destination,N/A,27053106200,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),379
+Bus - StL Bus Index,Destination,N/A,27053106200,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),249
+Bus - StL Bus Index,Destination,N/A,27053106400,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),345
+Bus - StL Bus Index,Destination,N/A,27053106400,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),11
+Bus - StL Bus Index,Destination,N/A,27053106400,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),43
+Bus - StL Bus Index,Destination,N/A,27053106400,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),120
+Bus - StL Bus Index,Destination,N/A,27053106400,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),118
+Bus - StL Bus Index,Destination,N/A,27053106400,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),51
+Bus - StL Bus Index,Destination,N/A,27053106400,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),346
+Bus - StL Bus Index,Destination,N/A,27053106400,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),8
+Bus - StL Bus Index,Destination,N/A,27053106400,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),47
+Bus - StL Bus Index,Destination,N/A,27053106400,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),117
+Bus - StL Bus Index,Destination,N/A,27053106400,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),122
+Bus - StL Bus Index,Destination,N/A,27053106400,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),52
+Bus - StL Bus Index,Destination,N/A,27053106400,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),317
+Bus - StL Bus Index,Destination,N/A,27053106400,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),12
+Bus - StL Bus Index,Destination,N/A,27053106400,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),33
+Bus - StL Bus Index,Destination,N/A,27053106400,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),115
+Bus - StL Bus Index,Destination,N/A,27053106400,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),107
+Bus - StL Bus Index,Destination,N/A,27053106400,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),50
+Bus - StL Bus Index,Destination,N/A,27053106700,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1849
+Bus - StL Bus Index,Destination,N/A,27053106700,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),116
+Bus - StL Bus Index,Destination,N/A,27053106700,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),208
+Bus - StL Bus Index,Destination,N/A,27053106700,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),494
+Bus - StL Bus Index,Destination,N/A,27053106700,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),619
+Bus - StL Bus Index,Destination,N/A,27053106700,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),412
+Bus - StL Bus Index,Destination,N/A,27053106700,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1865
+Bus - StL Bus Index,Destination,N/A,27053106700,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),97
+Bus - StL Bus Index,Destination,N/A,27053106700,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),235
+Bus - StL Bus Index,Destination,N/A,27053106700,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),479
+Bus - StL Bus Index,Destination,N/A,27053106700,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),685
+Bus - StL Bus Index,Destination,N/A,27053106700,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),370
+Bus - StL Bus Index,Destination,N/A,27053106700,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1637
+Bus - StL Bus Index,Destination,N/A,27053106700,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),161
+Bus - StL Bus Index,Destination,N/A,27053106700,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),117
+Bus - StL Bus Index,Destination,N/A,27053106700,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),495
+Bus - StL Bus Index,Destination,N/A,27053106700,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),446
+Bus - StL Bus Index,Destination,N/A,27053106700,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),417
+Bus - StL Bus Index,Destination,N/A,27053106900,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1712
+Bus - StL Bus Index,Destination,N/A,27053106900,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),48
+Bus - StL Bus Index,Destination,N/A,27053106900,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),166
+Bus - StL Bus Index,Destination,N/A,27053106900,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),594
+Bus - StL Bus Index,Destination,N/A,27053106900,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),604
+Bus - StL Bus Index,Destination,N/A,27053106900,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),299
+Bus - StL Bus Index,Destination,N/A,27053106900,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1677
+Bus - StL Bus Index,Destination,N/A,27053106900,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),32
+Bus - StL Bus Index,Destination,N/A,27053106900,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),190
+Bus - StL Bus Index,Destination,N/A,27053106900,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),542
+Bus - StL Bus Index,Destination,N/A,27053106900,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),614
+Bus - StL Bus Index,Destination,N/A,27053106900,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),298
+Bus - StL Bus Index,Destination,N/A,27053106900,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1597
+Bus - StL Bus Index,Destination,N/A,27053106900,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),77
+Bus - StL Bus Index,Destination,N/A,27053106900,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),92
+Bus - StL Bus Index,Destination,N/A,27053106900,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),662
+Bus - StL Bus Index,Destination,N/A,27053106900,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),508
+Bus - StL Bus Index,Destination,N/A,27053106900,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),259
+Bus - StL Bus Index,Destination,N/A,27053107000,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1172
+Bus - StL Bus Index,Destination,N/A,27053107000,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),39
+Bus - StL Bus Index,Destination,N/A,27053107000,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),101
+Bus - StL Bus Index,Destination,N/A,27053107000,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),369
+Bus - StL Bus Index,Destination,N/A,27053107000,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),426
+Bus - StL Bus Index,Destination,N/A,27053107000,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),237
+Bus - StL Bus Index,Destination,N/A,27053107000,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1099
+Bus - StL Bus Index,Destination,N/A,27053107000,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),32
+Bus - StL Bus Index,Destination,N/A,27053107000,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),110
+Bus - StL Bus Index,Destination,N/A,27053107000,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),320
+Bus - StL Bus Index,Destination,N/A,27053107000,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),426
+Bus - StL Bus Index,Destination,N/A,27053107000,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),210
+Bus - StL Bus Index,Destination,N/A,27053107000,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1235
+Bus - StL Bus Index,Destination,N/A,27053107000,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),53
+Bus - StL Bus Index,Destination,N/A,27053107000,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),68
+Bus - StL Bus Index,Destination,N/A,27053107000,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),462
+Bus - StL Bus Index,Destination,N/A,27053107000,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),412
+Bus - StL Bus Index,Destination,N/A,27053107000,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),240
+Bus - StL Bus Index,Destination,N/A,27053107400,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1341
+Bus - StL Bus Index,Destination,N/A,27053107400,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),38
+Bus - StL Bus Index,Destination,N/A,27053107400,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),201
+Bus - StL Bus Index,Destination,N/A,27053107400,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),473
+Bus - StL Bus Index,Destination,N/A,27053107400,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),425
+Bus - StL Bus Index,Destination,N/A,27053107400,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),203
+Bus - StL Bus Index,Destination,N/A,27053107400,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1322
+Bus - StL Bus Index,Destination,N/A,27053107400,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),36
+Bus - StL Bus Index,Destination,N/A,27053107400,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),235
+Bus - StL Bus Index,Destination,N/A,27053107400,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),448
+Bus - StL Bus Index,Destination,N/A,27053107400,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),419
+Bus - StL Bus Index,Destination,N/A,27053107400,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),183
+Bus - StL Bus Index,Destination,N/A,27053107400,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1224
+Bus - StL Bus Index,Destination,N/A,27053107400,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),42
+Bus - StL Bus Index,Destination,N/A,27053107400,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),91
+Bus - StL Bus Index,Destination,N/A,27053107400,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),480
+Bus - StL Bus Index,Destination,N/A,27053107400,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),398
+Bus - StL Bus Index,Destination,N/A,27053107400,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),214
+Bus - StL Bus Index,Destination,N/A,27053107500,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),649
+Bus - StL Bus Index,Destination,N/A,27053107500,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),29
+Bus - StL Bus Index,Destination,N/A,27053107500,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),123
+Bus - StL Bus Index,Destination,N/A,27053107500,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),217
+Bus - StL Bus Index,Destination,N/A,27053107500,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),187
+Bus - StL Bus Index,Destination,N/A,27053107500,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),92
+Bus - StL Bus Index,Destination,N/A,27053107500,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),695
+Bus - StL Bus Index,Destination,N/A,27053107500,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),21
+Bus - StL Bus Index,Destination,N/A,27053107500,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),153
+Bus - StL Bus Index,Destination,N/A,27053107500,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),228
+Bus - StL Bus Index,Destination,N/A,27053107500,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),209
+Bus - StL Bus Index,Destination,N/A,27053107500,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),85
+Bus - StL Bus Index,Destination,N/A,27053107500,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),471
+Bus - StL Bus Index,Destination,N/A,27053107500,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),41
+Bus - StL Bus Index,Destination,N/A,27053107500,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),52
+Bus - StL Bus Index,Destination,N/A,27053107500,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),167
+Bus - StL Bus Index,Destination,N/A,27053107500,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),116
+Bus - StL Bus Index,Destination,N/A,27053107500,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),95
+Bus - StL Bus Index,Destination,N/A,27053125600,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1515
+Bus - StL Bus Index,Destination,N/A,27053125600,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),55
+Bus - StL Bus Index,Destination,N/A,27053125600,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),307
+Bus - StL Bus Index,Destination,N/A,27053125600,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),471
+Bus - StL Bus Index,Destination,N/A,27053125600,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),458
+Bus - StL Bus Index,Destination,N/A,27053125600,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),224
+Bus - StL Bus Index,Destination,N/A,27053125600,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1574
+Bus - StL Bus Index,Destination,N/A,27053125600,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),38
+Bus - StL Bus Index,Destination,N/A,27053125600,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),382
+Bus - StL Bus Index,Destination,N/A,27053125600,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),476
+Bus - StL Bus Index,Destination,N/A,27053125600,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),485
+Bus - StL Bus Index,Destination,N/A,27053125600,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),192
+Bus - StL Bus Index,Destination,N/A,27053125600,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1255
+Bus - StL Bus Index,Destination,N/A,27053125600,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),92
+Bus - StL Bus Index,Destination,N/A,27053125600,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),113
+Bus - StL Bus Index,Destination,N/A,27053125600,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),415
+Bus - StL Bus Index,Destination,N/A,27053125600,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),393
+Bus - StL Bus Index,Destination,N/A,27053125600,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),242
+Bus - StL Bus Index,Destination,N/A,27053125800,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),2966
+Bus - StL Bus Index,Destination,N/A,27053125800,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),101
+Bus - StL Bus Index,Destination,N/A,27053125800,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),496
+Bus - StL Bus Index,Destination,N/A,27053125800,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),973
+Bus - StL Bus Index,Destination,N/A,27053125800,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),943
+Bus - StL Bus Index,Destination,N/A,27053125800,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),453
+Bus - StL Bus Index,Destination,N/A,27053125800,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),3099
+Bus - StL Bus Index,Destination,N/A,27053125800,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),78
+Bus - StL Bus Index,Destination,N/A,27053125800,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),591
+Bus - StL Bus Index,Destination,N/A,27053125800,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),994
+Bus - StL Bus Index,Destination,N/A,27053125800,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),1011
+Bus - StL Bus Index,Destination,N/A,27053125800,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),425
+Bus - StL Bus Index,Destination,N/A,27053125800,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),2363
+Bus - StL Bus Index,Destination,N/A,27053125800,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),157
+Bus - StL Bus Index,Destination,N/A,27053125800,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),199
+Bus - StL Bus Index,Destination,N/A,27053125800,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),831
+Bus - StL Bus Index,Destination,N/A,27053125800,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),732
+Bus - StL Bus Index,Destination,N/A,27053125800,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),444
+Bus - StL Bus Index,Destination,N/A,27053125900,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1963
+Bus - StL Bus Index,Destination,N/A,27053125900,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),62
+Bus - StL Bus Index,Destination,N/A,27053125900,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),204
+Bus - StL Bus Index,Destination,N/A,27053125900,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),675
+Bus - StL Bus Index,Destination,N/A,27053125900,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),673
+Bus - StL Bus Index,Destination,N/A,27053125900,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),349
+Bus - StL Bus Index,Destination,N/A,27053125900,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1989
+Bus - StL Bus Index,Destination,N/A,27053125900,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),58
+Bus - StL Bus Index,Destination,N/A,27053125900,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),237
+Bus - StL Bus Index,Destination,N/A,27053125900,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),659
+Bus - StL Bus Index,Destination,N/A,27053125900,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),699
+Bus - StL Bus Index,Destination,N/A,27053125900,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),335
+Bus - StL Bus Index,Destination,N/A,27053125900,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1746
+Bus - StL Bus Index,Destination,N/A,27053125900,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),75
+Bus - StL Bus Index,Destination,N/A,27053125900,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),128
+Bus - StL Bus Index,Destination,N/A,27053125900,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),676
+Bus - StL Bus Index,Destination,N/A,27053125900,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),546
+Bus - StL Bus Index,Destination,N/A,27053125900,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),321
+Bus - StL Bus Index,Destination,N/A,27053126000,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),3427
+Bus - StL Bus Index,Destination,N/A,27053126000,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),149
+Bus - StL Bus Index,Destination,N/A,27053126000,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),635
+Bus - StL Bus Index,Destination,N/A,27053126000,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),1119
+Bus - StL Bus Index,Destination,N/A,27053126000,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),967
+Bus - StL Bus Index,Destination,N/A,27053126000,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),558
+Bus - StL Bus Index,Destination,N/A,27053126000,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),3647
+Bus - StL Bus Index,Destination,N/A,27053126000,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),105
+Bus - StL Bus Index,Destination,N/A,27053126000,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),783
+Bus - StL Bus Index,Destination,N/A,27053126000,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),1172
+Bus - StL Bus Index,Destination,N/A,27053126000,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),1060
+Bus - StL Bus Index,Destination,N/A,27053126000,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),527
+Bus - StL Bus Index,Destination,N/A,27053126000,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),2683
+Bus - StL Bus Index,Destination,N/A,27053126000,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),250
+Bus - StL Bus Index,Destination,N/A,27053126000,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),263
+Bus - StL Bus Index,Destination,N/A,27053126000,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),907
+Bus - StL Bus Index,Destination,N/A,27053126000,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),692
+Bus - StL Bus Index,Destination,N/A,27053126000,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),572
+Bus - StL Bus Index,Destination,N/A,27053126101,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),1662
+Bus - StL Bus Index,Destination,N/A,27053126101,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),88
+Bus - StL Bus Index,Destination,N/A,27053126101,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),414
+Bus - StL Bus Index,Destination,N/A,27053126101,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),474
+Bus - StL Bus Index,Destination,N/A,27053126101,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),444
+Bus - StL Bus Index,Destination,N/A,27053126101,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),242
+Bus - StL Bus Index,Destination,N/A,27053126101,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),1792
+Bus - StL Bus Index,Destination,N/A,27053126101,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),65
+Bus - StL Bus Index,Destination,N/A,27053126101,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),548
+Bus - StL Bus Index,Destination,N/A,27053126101,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),493
+Bus - StL Bus Index,Destination,N/A,27053126101,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),472
+Bus - StL Bus Index,Destination,N/A,27053126101,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),214
+Bus - StL Bus Index,Destination,N/A,27053126101,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1186
+Bus - StL Bus Index,Destination,N/A,27053126101,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),121
+Bus - StL Bus Index,Destination,N/A,27053126101,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),127
+Bus - StL Bus Index,Destination,N/A,27053126101,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),381
+Bus - StL Bus Index,Destination,N/A,27053126101,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),313
+Bus - StL Bus Index,Destination,N/A,27053126101,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),243
+Bus - StL Bus Index,Destination,N/A,27053126102,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),16383
+Bus - StL Bus Index,Destination,N/A,27053126102,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),897
+Bus - StL Bus Index,Destination,N/A,27053126102,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),5451
+Bus - StL Bus Index,Destination,N/A,27053126102,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),4136
+Bus - StL Bus Index,Destination,N/A,27053126102,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),3690
+Bus - StL Bus Index,Destination,N/A,27053126102,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),2208
+Bus - StL Bus Index,Destination,N/A,27053126102,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),18042
+Bus - StL Bus Index,Destination,N/A,27053126102,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),744
+Bus - StL Bus Index,Destination,N/A,27053126102,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),7234
+Bus - StL Bus Index,Destination,N/A,27053126102,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),4421
+Bus - StL Bus Index,Destination,N/A,27053126102,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),3838
+Bus - StL Bus Index,Destination,N/A,27053126102,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),1804
+Bus - StL Bus Index,Destination,N/A,27053126102,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),10954
+Bus - StL Bus Index,Destination,N/A,27053126102,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),1258
+Bus - StL Bus Index,Destination,N/A,27053126102,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),1175
+Bus - StL Bus Index,Destination,N/A,27053126102,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),3138
+Bus - StL Bus Index,Destination,N/A,27053126102,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),2921
+Bus - StL Bus Index,Destination,N/A,27053126102,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),2463
+Bus - StL Bus Index,Destination,N/A,27053126201,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),2639
+Bus - StL Bus Index,Destination,N/A,27053126201,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),135
+Bus - StL Bus Index,Destination,N/A,27053126201,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),482
+Bus - StL Bus Index,Destination,N/A,27053126201,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),884
+Bus - StL Bus Index,Destination,N/A,27053126201,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),750
+Bus - StL Bus Index,Destination,N/A,27053126201,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),387
+Bus - StL Bus Index,Destination,N/A,27053126201,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),2789
+Bus - StL Bus Index,Destination,N/A,27053126201,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),109
+Bus - StL Bus Index,Destination,N/A,27053126201,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),604
+Bus - StL Bus Index,Destination,N/A,27053126201,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),943
+Bus - StL Bus Index,Destination,N/A,27053126201,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),806
+Bus - StL Bus Index,Destination,N/A,27053126201,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),328
+Bus - StL Bus Index,Destination,N/A,27053126201,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),1973
+Bus - StL Bus Index,Destination,N/A,27053126201,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),202
+Bus - StL Bus Index,Destination,N/A,27053126201,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),194
+Bus - StL Bus Index,Destination,N/A,27053126201,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),677
+Bus - StL Bus Index,Destination,N/A,27053126201,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),513
+Bus - StL Bus Index,Destination,N/A,27053126201,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),387
+Bus - StL Bus Index,Destination,N/A,27053126202,no,N/A,no,0: All Days (M-Su),0: All Day (12am-12am),2320
+Bus - StL Bus Index,Destination,N/A,27053126202,no,N/A,no,0: All Days (M-Su),1: Early AM (12am-6am),109
+Bus - StL Bus Index,Destination,N/A,27053126202,no,N/A,no,0: All Days (M-Su),2: Peak AM (6am-10am),441
+Bus - StL Bus Index,Destination,N/A,27053126202,no,N/A,no,0: All Days (M-Su),3: Mid-Day (10am-3pm),660
+Bus - StL Bus Index,Destination,N/A,27053126202,no,N/A,no,0: All Days (M-Su),4: Peak PM (3pm-7pm),656
+Bus - StL Bus Index,Destination,N/A,27053126202,no,N/A,no,0: All Days (M-Su),5: Late PM (7pm-12am),454
+Bus - StL Bus Index,Destination,N/A,27053126202,no,N/A,no,1: Weekday (M-Th),0: All Day (12am-12am),2275
+Bus - StL Bus Index,Destination,N/A,27053126202,no,N/A,no,1: Weekday (M-Th),1: Early AM (12am-6am),66
+Bus - StL Bus Index,Destination,N/A,27053126202,no,N/A,no,1: Weekday (M-Th),2: Peak AM (6am-10am),560
+Bus - StL Bus Index,Destination,N/A,27053126202,no,N/A,no,1: Weekday (M-Th),3: Mid-Day (10am-3pm),637
+Bus - StL Bus Index,Destination,N/A,27053126202,no,N/A,no,1: Weekday (M-Th),4: Peak PM (3pm-7pm),663
+Bus - StL Bus Index,Destination,N/A,27053126202,no,N/A,no,1: Weekday (M-Th),5: Late PM (7pm-12am),349
+Bus - StL Bus Index,Destination,N/A,27053126202,no,N/A,no,2: Weekend Day (Sa-Su),0: All Day (12am-12am),2147
+Bus - StL Bus Index,Destination,N/A,27053126202,no,N/A,no,2: Weekend Day (Sa-Su),1: Early AM (12am-6am),227
+Bus - StL Bus Index,Destination,N/A,27053126202,no,N/A,no,2: Weekend Day (Sa-Su),2: Peak AM (6am-10am),153
+Bus - StL Bus Index,Destination,N/A,27053126202,no,N/A,no,2: Weekend Day (Sa-Su),3: Mid-Day (10am-3pm),617
+Bus - StL Bus Index,Destination,N/A,27053126202,no,N/A,no,2: Weekend Day (Sa-Su),4: Peak PM (3pm-7pm),595
+Bus - StL Bus Index,Destination,N/A,27053126202,no,N/A,no,2: Weekend Day (Sa-Su),5: Late PM (7pm-12am),555
